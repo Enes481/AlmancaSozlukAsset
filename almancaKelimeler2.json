@@ -1,0 +1,637 @@
+[
+    {
+        "index": 1.0,
+        "word": "Hallo",
+        "meaning": "Merhaba"
+    },
+    {
+        "index": 2.0,
+        "word": "Herzlich willkommen",
+        "meaning": "Hoş geldiniz"
+    },
+    {
+        "index": 3.0,
+        "word": "Auf Wiedersehen",
+        "meaning": "Hoşça kalın"
+    },
+    {
+        "index": 4.0,
+        "word": "Guten Morgen",
+        "meaning": "Günaydın"
+    },
+    {
+        "index": 5.0,
+        "word": "Haben Sie einen guten Tag",
+        "meaning": "İyi günler"
+    },
+    {
+        "index": 6.0,
+        "word": "Guten Abend",
+        "meaning": "İyi akşamlar"
+    },
+    {
+        "index": 7.0,
+        "word": "Gute Nacht",
+        "meaning": "İyi geceler"
+    },
+    {
+        "index": 8.0,
+        "word": "Auf Wiedersehen",
+        "meaning": "Güle güle"
+    },
+    {
+        "index": 9.0,
+        "word": "Auf Wiedersehen",
+        "meaning": "Allahaısmarladık"
+    },
+    {
+        "index": 10.0,
+        "word": "Heute",
+        "meaning": "Bugün"
+    },
+    {
+        "index": 11.0,
+        "word": "Heute Morgen",
+        "meaning": "Bu sabah"
+    },
+    {
+        "index": 12.0,
+        "word": "Heute Abend",
+        "meaning": "Bu akşam"
+    },
+    {
+        "index": 13.0,
+        "word": "Heute Abend",
+        "meaning": "Bu gece"
+    },
+    {
+        "index": 14.0,
+        "word": "Gestern",
+        "meaning": "Dün"
+    },
+    {
+        "index": 15.0,
+        "word": "Vorgestern",
+        "meaning": "Önceki gün"
+    },
+    {
+        "index": 16.0,
+        "word": "Gestern Nacht",
+        "meaning": "Dün gece"
+    },
+    {
+        "index": 17.0,
+        "word": "Morgen",
+        "meaning": "Sabah"
+    },
+    {
+        "index": 18.0,
+        "word": "Am Mittag",
+        "meaning": "Öğlen"
+    },
+    {
+        "index": 19.0,
+        "word": "Nachmittag",
+        "meaning": "Öğleden sonra"
+    },
+    {
+        "index": 20.0,
+        "word": "Abend",
+        "meaning": "Akşam"
+    },
+    {
+        "index": 21.0,
+        "word": "Nacht",
+        "meaning": "Gece"
+    },
+    {
+        "index": 22.0,
+        "word": "Herr",
+        "meaning": "Bay"
+    },
+    {
+        "index": 23.0,
+        "word": "Frau",
+        "meaning": "Bayan"
+    },
+    {
+        "index": 24.0,
+        "word": "Baby",
+        "meaning": "Bebek"
+    },
+    {
+        "index": 25.0,
+        "word": "Kind",
+        "meaning": "Çocuk"
+    },
+    {
+        "index": 26.0,
+        "word": "Jung",
+        "meaning": "Genç"
+    },
+    {
+        "index": 27.0,
+        "word": "Alt",
+        "meaning": "Yaşlı"
+    },
+    {
+        "index": 28.0,
+        "word": "Verheiratet",
+        "meaning": "Evli"
+    },
+    {
+        "index": 29.0,
+        "word": "Single",
+        "meaning": "Bekar"
+    },
+    {
+        "index": 30.0,
+        "word": "Geschieden",
+        "meaning": "Boşanmış"
+    },
+    {
+        "index": 31.0,
+        "word": "Ich heiße Ayse",
+        "meaning": "Benim adım Ayşe"
+    },
+    {
+        "index": 32.0,
+        "word": "Wie heißen Sie?",
+        "meaning": "Sizin adınız nedir?"
+    },
+    {
+        "index": 33.0,
+        "word": "Freut mich, dich kennenzulernen",
+        "meaning": "Sizi tanıdığıma Memnun oldum"
+    },
+    {
+        "index": 34.0,
+        "word": "Wie geht’s? / Wie geht es Ihnen?",
+        "meaning": "Nasılsınız?"
+    },
+    {
+        "index": 35.0,
+        "word": "Gut danke und dir?",
+        "meaning": "İyiyim, teşekkür ederim, ya siz?"
+    },
+    {
+        "index": 36.0,
+        "word": "Bist du Single?",
+        "meaning": "Bekar mısınız?"
+    },
+    {
+        "index": 37.0,
+        "word": "Was arbeitest du?",
+        "meaning": "Ne iş yapıyorsunuz?"
+    },
+    {
+        "index": 38.0,
+        "word": "Wie lange Sie diesen Job gemacht?",
+        "meaning": "Kaç senedir bu işi yapıyorsunuz?"
+    },
+    {
+        "index": 39.0,
+        "word": "Wo wohnst du?",
+        "meaning": "Nerede yaşıyorsunuz?"
+    },
+    {
+        "index": 40.0,
+        "word": "Wie viele Brüder oder Schwestern hast du?",
+        "meaning": "Kaç kardeşsiniz?"
+    },
+    {
+        "index": 41.0,
+        "word": "Wie alt sind Sie?",
+        "meaning": "Yaşınız?"
+    },
+    {
+        "index": 42.0,
+        "word": "Welchen Sport machst du?",
+        "meaning": "Hangi sporu yapıyorsunuz?"
+    },
+    {
+        "index": 43.0,
+        "word": "Du bist wunderschön",
+        "meaning": "Çok güzelsiniz"
+    },
+    {
+        "index": 44.0,
+        "word": "Deine Augen sind sehr schön",
+        "meaning": "Gözleriniz çok güzel"
+    },
+    {
+        "index": 45.0,
+        "word": "Ich mag dich sehr",
+        "meaning": "Sizden hoşlandım"
+    },
+    {
+        "index": 46.0,
+        "word": "Ich mag dich auch",
+        "meaning": "Ben de sizden hoşlandım"
+    },
+    {
+        "index": 47.0,
+        "word": "Möchten Sie mit mir essen?",
+        "meaning": "Benimle yemeğe çıkar mısınız?"
+    },
+    {
+        "index": 48.0,
+        "word": "Ja",
+        "meaning": "Evet"
+    },
+    {
+        "index": 49.0,
+        "word": "Nein",
+        "meaning": "Hayır"
+    },
+    {
+        "index": 50.0,
+        "word": "Okey / alles klar",
+        "meaning": "Tamam"
+    },
+    {
+        "index": 51.0,
+        "word": "Sicher",
+        "meaning": "Tabii ki"
+    },
+    {
+        "index": 52.0,
+        "word": "Natürlich",
+        "meaning": "Elbette"
+    },
+    {
+        "index": 53.0,
+        "word": "Du hast recht",
+        "meaning": "Haklısınız"
+    },
+    {
+        "index": 54.0,
+        "word": "Danke dir",
+        "meaning": "Teşekkür ederim"
+    },
+    {
+        "index": 55.0,
+        "word": "Verzeihung / Entschuldigung",
+        "meaning": "Affedersiniz"
+    },
+    {
+        "index": 56.0,
+        "word": "Entschuldigen Sie",
+        "meaning": "Özür dilerim"
+    },
+    {
+        "index": 57.0,
+        "word": "Bitte schön",
+        "meaning": "Rica ederim"
+    },
+    {
+        "index": 58.0,
+        "word": "Hilf mir",
+        "meaning": "Yardım edin"
+    },
+    {
+        "index": 59.0,
+        "word": "Ziehen",
+        "meaning": "Çekiniz"
+    },
+    {
+        "index": 60.0,
+        "word": "drücken",
+        "meaning": "İtiniz"
+    },
+    {
+        "index": 61.0,
+        "word": "Automatische Tür",
+        "meaning": "Otomatik kapı"
+    },
+    {
+        "index": 62.0,
+        "word": "Rolltreppe",
+        "meaning": "Yürüyen merpen"
+    },
+    {
+        "index": 63.0,
+        "word": "Treppe",
+        "meaning": "Merpen"
+    },
+    {
+        "index": 64.0,
+        "word": "Aufzug",
+        "meaning": "Asansör"
+    },
+    {
+        "index": 65.0,
+        "word": "ich bin türkisch",
+        "meaning": "Ben Türküm"
+    },
+    {
+        "index": 66.0,
+        "word": "Woher kommst du?",
+        "meaning": "Nerelisiniz?"
+    },
+    {
+        "index": 67.0,
+        "word": "ich bin schwedisch",
+        "meaning": "İsveçliyim"
+    },
+    {
+        "index": 68.0,
+        "word": "Deutsche",
+        "meaning": "Alman"
+    },
+    {
+        "index": 69.0,
+        "word": "Englisch",
+        "meaning": "İngiliz"
+    },
+    {
+        "index": 70.0,
+        "word": "Französisch",
+        "meaning": "Fransız"
+    },
+    {
+        "index": 71.0,
+        "word": "amerikanisch",
+        "meaning": "Amerikalı"
+    },
+    {
+        "index": 72.0,
+        "word": "Spanisch",
+        "meaning": "İspanyol"
+    },
+    {
+        "index": 73.0,
+        "word": "Belgier",
+        "meaning": "Belçikalı"
+    },
+    {
+        "index": 74.0,
+        "word": "Brasilianer",
+        "meaning": "Brezilyalı"
+    },
+    {
+        "index": 75.0,
+        "word": "norwegisch",
+        "meaning": "Norveçli"
+    },
+    {
+        "index": 76.0,
+        "word": "dänisch",
+        "meaning": "Danimarkalı"
+    },
+    {
+        "index": 77.0,
+        "word": "Russisch",
+        "meaning": "Rus"
+    },
+    {
+        "index": 78.0,
+        "word": "Argentinier",
+        "meaning": "Arjantinli"
+    },
+    {
+        "index": 79.0,
+        "word": "japanisch",
+        "meaning": "Japon"
+    },
+    {
+        "index": 80.0,
+        "word": "Chinesisch",
+        "meaning": "Çinli"
+    },
+    {
+        "index": 81.0,
+        "word": "ägyptisch",
+        "meaning": "Mısırlı"
+    },
+    {
+        "index": 82.0,
+        "word": "kanadisch",
+        "meaning": "Kanadalı"
+    },
+    {
+        "index": 83.0,
+        "word": "Niederländisch",
+        "meaning": "Hollandalı"
+    },
+    {
+        "index": 84.0,
+        "word": "bulgarisch",
+        "meaning": "Bulgar"
+    },
+    {
+        "index": 85.0,
+        "word": "griechisch",
+        "meaning": "Yunanlı"
+    },
+    {
+        "index": 86.0,
+        "word": "Hier",
+        "meaning": "Burada"
+    },
+    {
+        "index": 87.0,
+        "word": "Dort",
+        "meaning": "Orada"
+    },
+    {
+        "index": 88.0,
+        "word": "Da drüben",
+        "meaning": "Şurada"
+    },
+    {
+        "index": 89.0,
+        "word": "Vor",
+        "meaning": "Önünde"
+    },
+    {
+        "index": 90.0,
+        "word": "Hinter",
+        "meaning": "Arkasında"
+    },
+    {
+        "index": 91.0,
+        "word": "Auf der rechten Seite",
+        "meaning": "Sağında"
+    },
+    {
+        "index": 92.0,
+        "word": "Links",
+        "meaning": "Solunda"
+    },
+    {
+        "index": 93.0,
+        "word": "Weit",
+        "meaning": "Uzağında"
+    },
+    {
+        "index": 94.0,
+        "word": "In der Nähe von",
+        "meaning": "Yakınında"
+    },
+    {
+        "index": 95.0,
+        "word": "Nieder",
+        "meaning": "Aşağıda"
+    },
+    {
+        "index": 96.0,
+        "word": "Oben",
+        "meaning": "Yukarıda"
+    },
+    {
+        "index": 97.0,
+        "word": "Klein",
+        "meaning": "Küçük"
+    },
+    {
+        "index": 98.0,
+        "word": "Büyük",
+        "meaning": "Büyük"
+    },
+    {
+        "index": 99.0,
+        "word": "Mittel",
+        "meaning": "Orta"
+    },
+    {
+        "index": 100.0,
+        "word": "Lange",
+        "meaning": "Uzun"
+    },
+    {
+        "index": 101.0,
+        "word": "Kurz",
+        "meaning": "Kısa"
+    },
+    {
+        "index": 102.0,
+        "word": "Groß",
+        "meaning": "Geniş"
+    },
+    {
+        "index": 103.0,
+        "word": "Eng",
+        "meaning": "Dar"
+    },
+    {
+        "index": 104.0,
+        "word": "Dünn",
+        "meaning": "İnce"
+    },
+    {
+        "index": 105.0,
+        "word": "Was",
+        "meaning": "Ne?"
+    },
+    {
+        "index": 106.0,
+        "word": "Warum?",
+        "meaning": "Neden?"
+    },
+    {
+        "index": 107.0,
+        "word": "Wie?",
+        "meaning": "Nasıl?"
+    },
+    {
+        "index": 108.0,
+        "word": "Welche",
+        "meaning": "Hangi?"
+    },
+    {
+        "index": 109.0,
+        "word": "WHO?",
+        "meaning": "Kim?"
+    },
+    {
+        "index": 110.0,
+        "word": "Wann?",
+        "meaning": "Ne zaman?"
+    },
+    {
+        "index": 111.0,
+        "word": "Wo?",
+        "meaning": "Nerede?"
+    },
+    {
+        "index": 112.0,
+        "word": "Wie viel?",
+        "meaning": "Ne kadar?"
+    },
+    {
+        "index": 113.0,
+        "word": "Wie viele?",
+        "meaning": "Kaç tane?"
+    },
+    {
+        "index": 114.0,
+        "word": "Für wen?",
+        "meaning": "Kimin için?"
+    },
+    {
+        "index": 115.0,
+        "word": "Wie spät ist es?",
+        "meaning": "Saat kaç?"
+    },
+    {
+        "index": 116.0,
+        "word": "Es ist drei Uhr",
+        "meaning": "Saat 3"
+    },
+    {
+        "index": 117.0,
+        "word": "Es ist Viertel nach drei",
+        "meaning": "Saat 3’ü çeyrek geçiyor"
+    },
+    {
+        "index": 118.0,
+        "word": "Es ist halb vier",
+        "meaning": "Saat 3 buçuk"
+    },
+    {
+        "index": 119.0,
+        "word": "Es ist Viertel vor drei",
+        "meaning": "Saat 3’e çeyrek var"
+    },
+    {
+        "index": 120.0,
+        "word": "Nach zwei Uhr",
+        "meaning": "Saat 2’den sonra"
+    },
+    {
+        "index": 121.0,
+        "word": "Vor fünf Uhr",
+        "meaning": "Saat 5’ten önce"
+    },
+    {
+        "index": 122.0,
+        "word": " Welcher Tag ist heute?",
+        "meaning": "Bugün günlerden hangi gün?"
+    },
+    {
+        "index": 123.0,
+        "word": "Heute ist der 20. April 2007",
+        "meaning": "Bugün 20 Nisan 2007"
+    },
+    {
+        "index": 124.0,
+        "word": "Glückliche Jahre",
+        "meaning": "Mutlu yıllar"
+    },
+    {
+        "index": 125.0,
+        "word": "Habt ein schönes religiöses Fest",
+        "meaning": "İyi bayramlar"
+    },
+    {
+        "index": 126.0,
+        "word": "Herzlichen Glückwunsch zum Geburtstag",
+        "meaning": "Doğum gününüz kutlu olsun"
+    },
+    {
+        "index": 127.0,
+        "word": "Ich wünsche Ihnen einen schönen Hochzeitstag",
+        "meaning": "Evlilik yıl dönümüz kutlu olsun"
+    }
+]

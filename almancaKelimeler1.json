@@ -1,0 +1,5054 @@
+{
+  "jeden Tag": [
+    {
+      "index": 1.0,
+      "word": "Hallo",
+      "meaning": "Merhaba"
+    },
+    {
+      "index": 2.0,
+      "word": "Herzlich willkommen",
+      "meaning": "Hoş geldiniz"
+    },
+    {
+      "index": 3.0,
+      "word": "Auf Wiedersehen",
+      "meaning": "Hoşça kalın"
+    },
+    {
+      "index": 4.0,
+      "word": "Guten Morgen",
+      "meaning": "Günaydın"
+    },
+    {
+      "index": 5.0,
+      "word": "Haben Sie einen guten Tag",
+      "meaning": "İyi günler"
+    },
+    {
+      "index": 6.0,
+      "word": "Guten Abend",
+      "meaning": "İyi akşamlar"
+    },
+    {
+      "index": 7.0,
+      "word": "Gute Nacht",
+      "meaning": "İyi geceler"
+    },
+    {
+      "index": 8.0,
+      "word": "Auf Wiedersehen",
+      "meaning": "Güle güle"
+    },
+    {
+      "index": 9.0,
+      "word": "Auf Wiedersehen",
+      "meaning": "Allahaısmarladık"
+    },
+    {
+      "index": 10.0,
+      "word": "Heute",
+      "meaning": "Bugün"
+    },
+    {
+      "index": 11.0,
+      "word": "Heute Morgen",
+      "meaning": "Bu sabah"
+    },
+    {
+      "index": 12.0,
+      "word": "Heute Abend",
+      "meaning": "Bu akşam"
+    },
+    {
+      "index": 13.0,
+      "word": "Heute Abend",
+      "meaning": "Bu gece"
+    },
+    {
+      "index": 14.0,
+      "word": "Gestern",
+      "meaning": "Dün"
+    },
+    {
+      "index": 15.0,
+      "word": "Vorgestern",
+      "meaning": "Önceki gün"
+    },
+    {
+      "index": 16.0,
+      "word": "Gestern Nacht",
+      "meaning": "Dün gece"
+    },
+    {
+      "index": 17.0,
+      "word": "Morgen",
+      "meaning": "Sabah"
+    },
+    {
+      "index": 18.0,
+      "word": "Am Mittag",
+      "meaning": "Öğlen"
+    },
+    {
+      "index": 19.0,
+      "word": "Nachmittag",
+      "meaning": "Öğleden sonra"
+    },
+    {
+      "index": 20.0,
+      "word": "Abend",
+      "meaning": "Akşam"
+    },
+    {
+      "index": 21.0,
+      "word": "Nacht",
+      "meaning": "Gece"
+    },
+    {
+      "index": 22.0,
+      "word": "Herr",
+      "meaning": "Bay"
+    },
+    {
+      "index": 23.0,
+      "word": "Frau",
+      "meaning": "Bayan"
+    },
+    {
+      "index": 24.0,
+      "word": "Baby",
+      "meaning": "Bebek"
+    },
+    {
+      "index": 25.0,
+      "word": "Kind",
+      "meaning": "Çocuk"
+    },
+    {
+      "index": 26.0,
+      "word": "Jung",
+      "meaning": "Genç"
+    },
+    {
+      "index": 27.0,
+      "word": "Alt",
+      "meaning": "Yaşlı"
+    },
+    {
+      "index": 28.0,
+      "word": "Verheiratet",
+      "meaning": "Evli"
+    },
+    {
+      "index": 29.0,
+      "word": "Single",
+      "meaning": "Bekar"
+    },
+    {
+      "index": 30.0,
+      "word": "Geschieden",
+      "meaning": "Boşanmış"
+    },
+    {
+      "index": 31.0,
+      "word": "Ich heiße Ayse",
+      "meaning": "Benim adım Ayşe"
+    },
+    {
+      "index": 32.0,
+      "word": "Wie heißen Sie?",
+      "meaning": "Sizin adınız nedir?"
+    },
+    {
+      "index": 33.0,
+      "word": "Freut mich, dich kennenzulernen",
+      "meaning": "Sizi tanıdığıma Memnun oldum"
+    },
+    {
+      "index": 34.0,
+      "word": "Wie geht’s? / Wie geht es Ihnen?",
+      "meaning": "Nasılsınız?"
+    },
+    {
+      "index": 35.0,
+      "word": "Gut danke und dir?",
+      "meaning": "İyiyim, teşekkür ederim, ya siz?"
+    },
+    {
+      "index": 36.0,
+      "word": "Bist du Single?",
+      "meaning": "Bekar mısınız?"
+    },
+    {
+      "index": 37.0,
+      "word": "Was arbeitest du?",
+      "meaning": "Ne iş yapıyorsunuz?"
+    },
+    {
+      "index": 38.0,
+      "word": "Wie lange Sie diesen Job gemacht?",
+      "meaning": "Kaç senedir bu işi yapıyorsunuz?"
+    },
+    {
+      "index": 39.0,
+      "word": "Wo wohnst du?",
+      "meaning": "Nerede yaşıyorsunuz?"
+    },
+    {
+      "index": 40.0,
+      "word": "Wie viele Brüder oder Schwestern hast du?",
+      "meaning": "Kaç kardeşsiniz?"
+    },
+    {
+      "index": 41.0,
+      "word": "Wie alt sind Sie?",
+      "meaning": "Yaşınız?"
+    },
+    {
+      "index": 42.0,
+      "word": "Welchen Sport machst du?",
+      "meaning": "Hangi sporu yapıyorsunuz?"
+    },
+    {
+      "index": 43.0,
+      "word": "Du bist wunderschön",
+      "meaning": "Çok güzelsiniz"
+    },
+    {
+      "index": 44.0,
+      "word": "Deine Augen sind sehr schön",
+      "meaning": "Gözleriniz çok güzel"
+    },
+    {
+      "index": 45.0,
+      "word": "Ich mag dich sehr",
+      "meaning": "Sizden hoşlandım"
+    },
+    {
+      "index": 46.0,
+      "word": "Ich mag dich auch",
+      "meaning": "Ben de sizden hoşlandım"
+    },
+    {
+      "index": 47.0,
+      "word": "Möchten Sie mit mir essen?",
+      "meaning": "Benimle yemeğe çıkar mısınız?"
+    },
+    {
+      "index": 48.0,
+      "word": "Ja",
+      "meaning": "Evet"
+    },
+    {
+      "index": 49.0,
+      "word": "Nein",
+      "meaning": "Hayır"
+    },
+    {
+      "index": 50.0,
+      "word": "Okey / alles klar",
+      "meaning": "Tamam"
+    },
+    {
+      "index": 51.0,
+      "word": "Sicher",
+      "meaning": "Tabii ki"
+    },
+    {
+      "index": 52.0,
+      "word": "Natürlich",
+      "meaning": "Elbette"
+    },
+    {
+      "index": 53.0,
+      "word": "Du hast recht",
+      "meaning": "Haklısınız"
+    },
+    {
+      "index": 54.0,
+      "word": "Danke dir",
+      "meaning": "Teşekkür ederim"
+    },
+    {
+      "index": 55.0,
+      "word": "Verzeihung / Entschuldigung",
+      "meaning": "Affedersiniz"
+    },
+    {
+      "index": 56.0,
+      "word": "Entschuldigen Sie",
+      "meaning": "Özür dilerim"
+    },
+    {
+      "index": 57.0,
+      "word": "Bitte schön",
+      "meaning": "Rica ederim"
+    },
+    {
+      "index": 58.0,
+      "word": "Hilf mir",
+      "meaning": "Yardım edin"
+    },
+    {
+      "index": 59.0,
+      "word": "Ziehen",
+      "meaning": "Çekiniz"
+    },
+    {
+      "index": 60.0,
+      "word": "drücken",
+      "meaning": "İtiniz"
+    },
+    {
+      "index": 61.0,
+      "word": "Automatische Tür",
+      "meaning": "Otomatik kapı"
+    },
+    {
+      "index": 62.0,
+      "word": "Rolltreppe",
+      "meaning": "Yürüyen merpen"
+    },
+    {
+      "index": 63.0,
+      "word": "Treppe",
+      "meaning": "Merpen"
+    },
+    {
+      "index": 64.0,
+      "word": "Aufzug",
+      "meaning": "Asansör"
+    },
+    {
+      "index": 65.0,
+      "word": "ich bin türkisch",
+      "meaning": "Ben Türküm"
+    },
+    {
+      "index": 66.0,
+      "word": "Woher kommst du?",
+      "meaning": "Nerelisiniz?"
+    },
+    {
+      "index": 67.0,
+      "word": "ich bin schwedisch",
+      "meaning": "İsveçliyim"
+    },
+    {
+      "index": 68.0,
+      "word": "Deutsche",
+      "meaning": "Alman"
+    },
+    {
+      "index": 69.0,
+      "word": "Englisch",
+      "meaning": "İngiliz"
+    },
+    {
+      "index": 70.0,
+      "word": "Französisch",
+      "meaning": "Fransız"
+    },
+    {
+      "index": 71.0,
+      "word": "amerikanisch",
+      "meaning": "Amerikalı"
+    },
+    {
+      "index": 72.0,
+      "word": "Spanisch",
+      "meaning": "İspanyol"
+    },
+    {
+      "index": 73.0,
+      "word": "Belgier",
+      "meaning": "Belçikalı"
+    },
+    {
+      "index": 74.0,
+      "word": "Brasilianer",
+      "meaning": "Brezilyalı"
+    },
+    {
+      "index": 75.0,
+      "word": "norwegisch",
+      "meaning": "Norveçli"
+    },
+    {
+      "index": 76.0,
+      "word": "dänisch",
+      "meaning": "Danimarkalı"
+    },
+    {
+      "index": 77.0,
+      "word": "Russisch",
+      "meaning": "Rus"
+    },
+    {
+      "index": 78.0,
+      "word": "Argentinier",
+      "meaning": "Arjantinli"
+    },
+    {
+      "index": 79.0,
+      "word": "japanisch",
+      "meaning": "Japon"
+    },
+    {
+      "index": 80.0,
+      "word": "Chinesisch",
+      "meaning": "Çinli"
+    },
+    {
+      "index": 81.0,
+      "word": "ägyptisch",
+      "meaning": "Mısırlı"
+    },
+    {
+      "index": 82.0,
+      "word": "kanadisch",
+      "meaning": "Kanadalı"
+    },
+    {
+      "index": 83.0,
+      "word": "Niederländisch",
+      "meaning": "Hollandalı"
+    },
+    {
+      "index": 84.0,
+      "word": "bulgarisch",
+      "meaning": "Bulgar"
+    },
+    {
+      "index": 85.0,
+      "word": "griechisch",
+      "meaning": "Yunanlı"
+    },
+    {
+      "index": 86.0,
+      "word": "Hier",
+      "meaning": "Burada"
+    },
+    {
+      "index": 87.0,
+      "word": "Dort",
+      "meaning": "Orada"
+    },
+    {
+      "index": 88.0,
+      "word": "Da drüben",
+      "meaning": "Şurada"
+    },
+    {
+      "index": 89.0,
+      "word": "Vor",
+      "meaning": "Önünde"
+    },
+    {
+      "index": 90.0,
+      "word": "Hinter",
+      "meaning": "Arkasında"
+    },
+    {
+      "index": 91.0,
+      "word": "Auf der rechten Seite",
+      "meaning": "Sağında"
+    },
+    {
+      "index": 92.0,
+      "word": "Links",
+      "meaning": "Solunda"
+    },
+    {
+      "index": 93.0,
+      "word": "Weit",
+      "meaning": "Uzağında"
+    },
+    {
+      "index": 94.0,
+      "word": "In der Nähe von",
+      "meaning": "Yakınında"
+    },
+    {
+      "index": 95.0,
+      "word": "Nieder",
+      "meaning": "Aşağıda"
+    },
+    {
+      "index": 96.0,
+      "word": "Oben",
+      "meaning": "Yukarıda"
+    },
+    {
+      "index": 97.0,
+      "word": "Klein",
+      "meaning": "Küçük"
+    },
+    {
+      "index": 98.0,
+      "word": "Büyük",
+      "meaning": "Büyük"
+    },
+    {
+      "index": 99.0,
+      "word": "Mittel",
+      "meaning": "Orta"
+    },
+    {
+      "index": 100.0,
+      "word": "Lange",
+      "meaning": "Uzun"
+    },
+    {
+      "index": 101.0,
+      "word": "Kurz",
+      "meaning": "Kısa"
+    },
+    {
+      "index": 102.0,
+      "word": "Groß",
+      "meaning": "Geniş"
+    },
+    {
+      "index": 103.0,
+      "word": "Eng",
+      "meaning": "Dar"
+    },
+    {
+      "index": 104.0,
+      "word": "Dünn",
+      "meaning": "İnce"
+    },
+    {
+      "index": 105.0,
+      "word": "Was",
+      "meaning": "Ne?"
+    },
+    {
+      "index": 106.0,
+      "word": "Warum?",
+      "meaning": "Neden?"
+    },
+    {
+      "index": 107.0,
+      "word": "Wie?",
+      "meaning": "Nasıl?"
+    },
+    {
+      "index": 108.0,
+      "word": "Welche",
+      "meaning": "Hangi?"
+    },
+    {
+      "index": 109.0,
+      "word": "WHO?",
+      "meaning": "Kim?"
+    },
+    {
+      "index": 110.0,
+      "word": "Wann?",
+      "meaning": "Ne zaman?"
+    },
+    {
+      "index": 111.0,
+      "word": "Wo?",
+      "meaning": "Nerede?"
+    },
+    {
+      "index": 112.0,
+      "word": "Wie viel?",
+      "meaning": "Ne kadar?"
+    },
+    {
+      "index": 113.0,
+      "word": "Wie viele?",
+      "meaning": "Kaç tane?"
+    },
+    {
+      "index": 114.0,
+      "word": "Für wen?",
+      "meaning": "Kimin için?"
+    },
+    {
+      "index": 115.0,
+      "word": "Wie spät ist es?",
+      "meaning": "Saat kaç?"
+    },
+    {
+      "index": 116.0,
+      "word": "Es ist drei Uhr",
+      "meaning": "Saat 3"
+    },
+    {
+      "index": 117.0,
+      "word": "Es ist Viertel nach drei",
+      "meaning": "Saat 3’ü çeyrek geçiyor"
+    },
+    {
+      "index": 118.0,
+      "word": "Es ist halb vier",
+      "meaning": "Saat 3 buçuk"
+    },
+    {
+      "index": 119.0,
+      "word": "Es ist Viertel vor drei",
+      "meaning": "Saat 3’e çeyrek var"
+    },
+    {
+      "index": 120.0,
+      "word": "Nach zwei Uhr",
+      "meaning": "Saat 2’den sonra"
+    },
+    {
+      "index": 121.0,
+      "word": "Vor fünf Uhr",
+      "meaning": "Saat 5’ten önce"
+    },
+    {
+      "index": 122.0,
+      "word": " Welcher Tag ist heute?",
+      "meaning": "Bugün günlerden hangi gün?"
+    },
+    {
+      "index": 123.0,
+      "word": "Heute ist der 20. April 2007",
+      "meaning": "Bugün 20 Nisan 2007"
+    },
+    {
+      "index": 124.0,
+      "word": "Glückliche Jahre",
+      "meaning": "Mutlu yıllar"
+    },
+    {
+      "index": 125.0,
+      "word": "Habt ein schönes religiöses Fest",
+      "meaning": "İyi bayramlar"
+    },
+    {
+      "index": 126.0,
+      "word": "Herzlichen Glückwunsch zum Geburtstag",
+      "meaning": "Doğum gününüz kutlu olsun"
+    },
+    {
+      "index": 127.0,
+      "word": "Ich wünsche Ihnen einen schönen Hochzeitstag",
+      "meaning": "Evlilik yıl dönümüz kutlu olsun"
+    }
+  ],
+  "Zahlen": [
+    {
+      "index": 128.0,
+      "word": "Einer",
+      "meaning": "Bir"
+    },
+    {
+      "index": 129.0,
+      "word": "Zwei",
+      "meaning": "İki"
+    },
+    {
+      "index": 130.0,
+      "word": "Drei",
+      "meaning": "Üç"
+    },
+    {
+      "index": 131.0,
+      "word": "Vier",
+      "meaning": "Dört"
+    },
+    {
+      "index": 132.0,
+      "word": "Fünf",
+      "meaning": "Beş"
+    },
+    {
+      "index": 133.0,
+      "word": "Sechs",
+      "meaning": "Altı"
+    },
+    {
+      "index": 134.0,
+      "word": "Sieben",
+      "meaning": "Yedi"
+    },
+    {
+      "index": 135.0,
+      "word": "Acht",
+      "meaning": "Sekiz"
+    },
+    {
+      "index": 136.0,
+      "word": "Neun",
+      "meaning": "Dokuz"
+    },
+    {
+      "index": 137.0,
+      "word": "Zehn",
+      "meaning": "On"
+    },
+    {
+      "index": 138.0,
+      "word": "Elf",
+      "meaning": "Onbir"
+    },
+    {
+      "index": 139.0,
+      "word": "Zwölf",
+      "meaning": "Oniki"
+    },
+    {
+      "index": 140.0,
+      "word": "Dreizehn",
+      "meaning": "Onüç"
+    },
+    {
+      "index": 141.0,
+      "word": "Vierzehn",
+      "meaning": "Ondört"
+    },
+    {
+      "index": 142.0,
+      "word": "Fünfzehn",
+      "meaning": "Onbeş"
+    },
+    {
+      "index": 143.0,
+      "word": "Sechszehn",
+      "meaning": "Onatlı"
+    },
+    {
+      "index": 144.0,
+      "word": "Siebzehn",
+      "meaning": "Onyedi"
+    },
+    {
+      "index": 145.0,
+      "word": "Achtzehn",
+      "meaning": "Onsekiz"
+    },
+    {
+      "index": 146.0,
+      "word": "Neunzehn",
+      "meaning": "Ondokuz"
+    },
+    {
+      "index": 147.0,
+      "word": "Zwanzig",
+      "meaning": "Yirmi"
+    },
+    {
+      "index": 148.0,
+      "word": "Dreißig",
+      "meaning": "Otuz"
+    },
+    {
+      "index": 149.0,
+      "word": "Vierzig",
+      "meaning": "Kırk"
+    },
+    {
+      "index": 150.0,
+      "word": "Fünfzig",
+      "meaning": "Elli"
+    },
+    {
+      "index": 151.0,
+      "word": "Sechzig",
+      "meaning": "Altmış"
+    },
+    {
+      "index": 152.0,
+      "word": "Siebzig",
+      "meaning": "Yetmiş"
+    },
+    {
+      "index": 153.0,
+      "word": "Achtzig",
+      "meaning": "Seksen"
+    },
+    {
+      "index": 154.0,
+      "word": "Neunzig",
+      "meaning": "Doksan"
+    },
+    {
+      "index": 155.0,
+      "word": "Einhundert",
+      "meaning": "Yüz"
+    },
+    {
+      "index": 156.0,
+      "word": "Eintausend",
+      "meaning": "Bin"
+    },
+    {
+      "index": 157.0,
+      "word": "Zehntausend",
+      "meaning": "Onbin"
+    },
+    {
+      "index": 158.0,
+      "word": "Einhunderttausend",
+      "meaning": "Yüzbin"
+    },
+    {
+      "index": 159.0,
+      "word": "Eine Million",
+      "meaning": "Milyon"
+    },
+    {
+      "index": 160.0,
+      "word": "Der Erste",
+      "meaning": "Birinci"
+    },
+    {
+      "index": 161.0,
+      "word": "Der Zweite",
+      "meaning": "İkinci"
+    },
+    {
+      "index": 162.0,
+      "word": "Der dritte",
+      "meaning": "Üçüncü"
+    },
+    {
+      "index": 163.0,
+      "word": "Das vierte",
+      "meaning": "Dördüncü"
+    },
+    {
+      "index": 164.0,
+      "word": "Der fünfte",
+      "meaning": "Beşinci"
+    },
+    {
+      "index": 165.0,
+      "word": "Der sechste",
+      "meaning": "Altıncı"
+    },
+    {
+      "index": 166.0,
+      "word": "Der Siebte",
+      "meaning": "Yedinci"
+    },
+    {
+      "index": 167.0,
+      "word": "Die achte",
+      "meaning": "Sekizinci"
+    },
+    {
+      "index": 168.0,
+      "word": "Der Neunte",
+      "meaning": "Dokuzuncu"
+    },
+    {
+      "index": 169.0,
+      "word": "Der zehnte",
+      "meaning": "Onuncu"
+    },
+    {
+      "index": 170.0,
+      "word": "Der elfte",
+      "meaning": "Onbirinci"
+    },
+    {
+      "index": 171.0,
+      "word": "Der zwölfte",
+      "meaning": "Onikinci"
+    },
+    {
+      "index": 172.0,
+      "word": "Der dreizehnte",
+      "meaning": "Onüçüncü"
+    },
+    {
+      "index": 173.0,
+      "word": "Der vierzehnte",
+      "meaning": "Ondördüncü"
+    },
+    {
+      "index": 174.0,
+      "word": "Der fünfzehnte",
+      "meaning": "Onbeşinci"
+    },
+    {
+      "index": 175.0,
+      "word": "Der sechzehnte",
+      "meaning": "Onaltıncı"
+    },
+    {
+      "index": 176.0,
+      "word": "Der siebzehnte",
+      "meaning": "Onyedinci"
+    },
+    {
+      "index": 177.0,
+      "word": "Der achtzehnte",
+      "meaning": "Onsekizinci"
+    },
+    {
+      "index": 178.0,
+      "word": "Der neunzehnte",
+      "meaning": "Ondokuzuncu"
+    },
+    {
+      "index": 179.0,
+      "word": "Das zwanzigste",
+      "meaning": "Yirminci"
+    },
+    {
+      "index": 180.0,
+      "word": "Der dreißigste",
+      "meaning": "Otuzuncu"
+    },
+    {
+      "index": 181.0,
+      "word": "Der vierzigste",
+      "meaning": "Kırkıncı"
+    },
+    {
+      "index": 182.0,
+      "word": "Der fünfzigste",
+      "meaning": "Ellinci"
+    },
+    {
+      "index": 183.0,
+      "word": "Der sechzigste",
+      "meaning": "Altmışıncı"
+    },
+    {
+      "index": 184.0,
+      "word": "Der siebzigste",
+      "meaning": "Yetmişinci"
+    },
+    {
+      "index": 185.0,
+      "word": "Der achtzigste",
+      "meaning": "Sekseninci"
+    },
+    {
+      "index": 186.0,
+      "word": "Der neunzigste",
+      "meaning": "Doksanıncı"
+    },
+    {
+      "index": 187.0,
+      "word": "A / Einhundert",
+      "meaning": "Yüzüncü"
+    },
+    {
+      "index": 188.0,
+      "word": "A / Eintausendstel",
+      "meaning": "Bininci"
+    },
+    {
+      "index": 189.0,
+      "word": "Einmal",
+      "meaning": "Bir kez/defa"
+    },
+    {
+      "index": 190.0,
+      "word": "Zweimal",
+      "meaning": "İki kez/defa"
+    },
+    {
+      "index": 191.0,
+      "word": "Drei Mal",
+      "meaning": "Üç kez/defa"
+    },
+    {
+      "index": 192.0,
+      "word": "Vier Mal",
+      "meaning": "Dört kez/defa"
+    },
+    {
+      "index": 193.0,
+      "word": "Fünf Mal",
+      "meaning": "Beş kez/defa"
+    },
+    {
+      "index": 194.0,
+      "word": "Sechsmal",
+      "meaning": "Altı kez/defa"
+    },
+    {
+      "index": 195.0,
+      "word": "Sieben Mal",
+      "meaning": "Yedi kez/defa"
+    },
+    {
+      "index": 196.0,
+      "word": "Acht mal",
+      "meaning": "Sekiz kez/defa"
+    },
+    {
+      "index": 197.0,
+      "word": "Neun Mal",
+      "meaning": "Dokuz kez/defa"
+    },
+    {
+      "index": 198.0,
+      "word": "Zehn Mal",
+      "meaning": "On kez/defa"
+    }
+  ],
+  "Tage – Monate": [
+    {
+      "index": 199.0,
+      "word": "Montag",
+      "meaning": "Pazartesi"
+    },
+    {
+      "index": 200.0,
+      "word": "Dienstag",
+      "meaning": "Salı"
+    },
+    {
+      "index": 201.0,
+      "word": "Mittwoch",
+      "meaning": "Çarşamba"
+    },
+    {
+      "index": 202.0,
+      "word": "Donnerstag",
+      "meaning": "Perşembe"
+    },
+    {
+      "index": 203.0,
+      "word": "Freitag",
+      "meaning": "Cuma"
+    },
+    {
+      "index": 204.0,
+      "word": "Samstag",
+      "meaning": "Cumartesi"
+    },
+    {
+      "index": 205.0,
+      "word": "Sonntag",
+      "meaning": "Pazar"
+    },
+    {
+      "index": 206.0,
+      "word": "Januar",
+      "meaning": "Ocak"
+    },
+    {
+      "index": 207.0,
+      "word": "Februar",
+      "meaning": "Şubat"
+    },
+    {
+      "index": 208.0,
+      "word": "März",
+      "meaning": "Mart"
+    },
+    {
+      "index": 209.0,
+      "word": "April",
+      "meaning": "Nisan"
+    },
+    {
+      "index": 210.0,
+      "word": "Kann",
+      "meaning": "Mayıs"
+    },
+    {
+      "index": 211.0,
+      "word": "Juni",
+      "meaning": "Haziran"
+    },
+    {
+      "index": 212.0,
+      "word": "Juli",
+      "meaning": "Temmuz"
+    },
+    {
+      "index": 213.0,
+      "word": "August",
+      "meaning": "Ağustos"
+    },
+    {
+      "index": 214.0,
+      "word": "September",
+      "meaning": "Eylül"
+    },
+    {
+      "index": 215.0,
+      "word": "Oktober",
+      "meaning": "Ekim"
+    },
+    {
+      "index": 216.0,
+      "word": "November",
+      "meaning": "Kasım"
+    },
+    {
+      "index": 217.0,
+      "word": "Dezember",
+      "meaning": "Aralık"
+    },
+    {
+      "index": 218.0,
+      "word": "In dieser Woche",
+      "meaning": "Bu hafta"
+    },
+    {
+      "index": 219.0,
+      "word": "Nächste Woche",
+      "meaning": "Gelecek hafta"
+    },
+    {
+      "index": 220.0,
+      "word": "Nach zwei Wochen",
+      "meaning": "İki hafta sonra"
+    },
+    {
+      "index": 221.0,
+      "word": "Vor drei Wochen",
+      "meaning": "Üç hafta önce"
+    },
+    {
+      "index": 222.0,
+      "word": "Diesen Monat",
+      "meaning": "Bu ay"
+    },
+    {
+      "index": 223.0,
+      "word": "Im vergangenen Monat",
+      "meaning": "Geçen ay"
+    },
+    {
+      "index": 224.0,
+      "word": "Nächsten Monat",
+      "meaning": "Gelecek ay"
+    },
+    {
+      "index": 225.0,
+      "word": "Nach fünf Monaten",
+      "meaning": "5 ay sonra"
+    },
+    {
+      "index": 226.0,
+      "word": "Dieses Jahr",
+      "meaning": "Bu yıl"
+    },
+    {
+      "index": 227.0,
+      "word": "Vergangenes Jahr",
+      "meaning": "Geçen yıl"
+    },
+    {
+      "index": 228.0,
+      "word": "Nächstes Jahr",
+      "meaning": "Gelecek yıl"
+    },
+    {
+      "index": 229.0,
+      "word": "Nach vier Jahren",
+      "meaning": "Dört yıl sonra"
+    }
+  ],
+  "Jahreszeiten-Farben": [
+    {
+      "index": 230.0,
+      "word": "Frühling",
+      "meaning": "İlkbahar"
+    },
+    {
+      "index": 231.0,
+      "word": "Sommer",
+      "meaning": "Yaz"
+    },
+    {
+      "index": 232.0,
+      "word": "Herbst",
+      "meaning": "Sonbahar"
+    },
+    {
+      "index": 233.0,
+      "word": "Winter",
+      "meaning": "Kış"
+    },
+    {
+      "index": 234.0,
+      "word": "Weiß",
+      "meaning": "Beyaz"
+    },
+    {
+      "index": 235.0,
+      "word": "rot",
+      "meaning": "Kırmızı"
+    },
+    {
+      "index": 236.0,
+      "word": "Schwarz",
+      "meaning": "Siyah"
+    },
+    {
+      "index": 237.0,
+      "word": "Blau",
+      "meaning": "Mavi"
+    },
+    {
+      "index": 238.0,
+      "word": "Orange",
+      "meaning": "Turuncu"
+    },
+    {
+      "index": 239.0,
+      "word": "Dunkelblau",
+      "meaning": "Lacivert"
+    },
+    {
+      "index": 240.0,
+      "word": "Rosa",
+      "meaning": "Pembe"
+    },
+    {
+      "index": 241.0,
+      "word": "Lila",
+      "meaning": "Mor"
+    },
+    {
+      "index": 242.0,
+      "word": "Gelb",
+      "meaning": "Sarı"
+    }
+  ],
+  "Am Flughafen": [
+    {
+      "index": 243.0,
+      "word": "Ihr Ticket und Reisepass bitte.",
+      "meaning": "Bilet ve pasaportunuz, lütfen."
+    },
+    {
+      "index": 244.0,
+      "word": "Möchten Sie Gang- oder Fensterseite?",
+      "meaning": "Koridor mu cam kenarı mı istersiniz?"
+    },
+    {
+      "index": 245.0,
+      "word": "Ihre Gate-Nummer ist 276",
+      "meaning": "Kapınız 276."
+    },
+    {
+      "index": 246.0,
+      "word": "Die Zeit zur Tür gehen ist 10:30 Uhr.",
+      "meaning": "Kapıya gidiş saatiniz 10:30."
+    },
+    {
+      "index": 247.0,
+      "word": "Guten Flug",
+      "meaning": "İyi uçuşlar."
+    },
+    {
+      "index": 248.0,
+      "word": "Ihre Flugkarte bitte",
+      "meaning": "Uçuş kartınız lütfen."
+    },
+    {
+      "index": 249.0,
+      "word": "Lassen Sie bitte Ihr Handgepäck in der Röntgenmaschine",
+      "meaning": "El bagajınızı röntgen cihazına bırakınız."
+    },
+    {
+      "index": 250.0,
+      "word": "Schalten Sie bitte Ihr Handy aus",
+      "meaning": "Cep telefonunuzu kapatınız."
+    },
+    {
+      "index": 251.0,
+      "word": "Zieh bitte deinen hohen Stiefel aus",
+      "meaning": "Çizmelerinizi çıkartınız."
+    },
+    {
+      "index": 252.0,
+      "word": "Lösen Sie bitte Ihren Gürtel",
+      "meaning": "Lütfen kemerinizi çıkartınız."
+    },
+    {
+      "index": 253.0,
+      "word": "Lassen Sie Ihre Metallgegenstände in der Röntgenmaschine",
+      "meaning": "Metal eşyalarınızı röntgen cihazına bırakınız."
+    },
+    {
+      "index": 254.0,
+      "word": "Bitte noch einmal übergeben",
+      "meaning": "Lütfen tekrar geçiniz."
+    },
+    {
+      "index": 255.0,
+      "word": "Nehmen Sie Ihren Laptop aus der Tasche",
+      "meaning": "Dizüstü bilgisayarınızı çantadan çıkartınız."
+    },
+    {
+      "index": 256.0,
+      "word": "Legen Sie bitte Ihre Arme und Beine beiseite",
+      "meaning": "Kollarınızı ve bacaklarınızı yana açınız."
+    },
+    {
+      "index": 257.0,
+      "word": "Hören Sie sich diese Erklärungen zu Ihrer Sicherheit bitte genau an",
+      "meaning": "Lütfen güvenliğiniz için yapacağımız açıklamaları dikkatle dinleyiniz."
+    },
+    {
+      "index": 258.0,
+      "word": "Vielen Dank, dass Sie uns gewählt haben",
+      "meaning": "Bizi tercih ettiğiniz için teşekkür ederiz."
+    },
+    {
+      "index": 259.0,
+      "word": "Wir wünschen Ihnen einen schönen Flug und wir hoffen dass,Sie wieder zu treffen",
+      "meaning": "Uçuşunuzun iyi geçmiş olduğunu diliyor ve sizinle tekrar karşılaşmayı umuyoruz."
+    },
+    {
+      "index": 260.0,
+      "word": "Ihren Reisepass, bitte",
+      "meaning": "Pasaportunuz lütfen."
+    },
+    {
+      "index": 261.0,
+      "word": "Was ist dein Grund für Ihre Reise?",
+      "meaning": "Seyahat sebebiniz?"
+    },
+    {
+      "index": 262.0,
+      "word": "Wie viele Tage wirst du bleiben?",
+      "meaning": "Kaç gün kalacaksınız?"
+    },
+    {
+      "index": 263.0,
+      "word": "Wo wirst du bleiben?",
+      "meaning": "Nerede kalacaksınız?"
+    },
+    {
+      "index": 264.0,
+      "word": "Füllen Sie bitte dieses Formular aus",
+      "meaning": "Lütfen bu formu doldurunuz."
+    },
+    {
+      "index": 265.0,
+      "word": "Sie können mit dem Bus in die Innenstadt fahren",
+      "meaning": "Şehir merkezine otobüs ile gidebilirsiniz."
+    },
+    {
+      "index": 266.0,
+      "word": "Die Busverbindung befindet sich links draußen",
+      "meaning": "Otobüs servisi çıkışta soldadır."
+    },
+    {
+      "index": 267.0,
+      "word": "Alle fünfzehn Minuten fährt ein Servicewagen in die Innenstadt",
+      "meaning": "Şehir merkezine her 15 dakikada bir servis vardır."
+    },
+    {
+      "index": 268.0,
+      "word": "Alle fünf Minuten gibt es eine U-Bahn in der Innenstadt",
+      "meaning": "Şehir merkezine her 5 dakikada bir metro vardır."
+    },
+    {
+      "index": 269.0,
+      "word": "Bushaltestelle",
+      "meaning": "Otobüs durağı"
+    },
+    {
+      "index": 270.0,
+      "word": "Taxistand",
+      "meaning": "Taksi durağı"
+    },
+    {
+      "index": 271.0,
+      "word": "Mieten Sie ein Autobüro",
+      "meaning": "Araba kiralama ofisi"
+    },
+    {
+      "index": 272.0,
+      "word": "Hotelreservierungsbüro",
+      "meaning": "Otel rezervasyon ofisi"
+    },
+    {
+      "index": 273.0,
+      "word": "Information",
+      "meaning": "Danışma"
+    },
+    {
+      "index": 274.0,
+      "word": "Treffpunkt / Bereich",
+      "meaning": "Buluşma noktası"
+    },
+    {
+      "index": 275.0,
+      "word": "Inlandsankünfte",
+      "meaning": "İç hatlar geliş"
+    },
+    {
+      "index": 276.0,
+      "word": "Inlandsabreise",
+      "meaning": "İç hatlar gidiş"
+    },
+    {
+      "index": 277.0,
+      "word": "Externe Ankünfte",
+      "meaning": "Dış hatlar geliş"
+    },
+    {
+      "index": 278.0,
+      "word": "Externe Abfahrt",
+      "meaning": "Dış hatlar gidiş"
+    },
+    {
+      "index": 279.0,
+      "word": "Flugkarte",
+      "meaning": "Uçuş kartı"
+    },
+    {
+      "index": 280.0,
+      "word": "Flugzeugticket",
+      "meaning": "Uçak bileti"
+    },
+    {
+      "index": 281.0,
+      "word": "Ankündigung",
+      "meaning": "Anons"
+    },
+    {
+      "index": 282.0,
+      "word": "Tor",
+      "meaning": "Kapı"
+    },
+    {
+      "index": 283.0,
+      "word": "Wartezimmer / Flur",
+      "meaning": "Bekleme odası/ salonu"
+    },
+    {
+      "index": 284.0,
+      "word": "Flugzeit",
+      "meaning": "Uçuş zamanı"
+    },
+    {
+      "index": 285.0,
+      "word": "Flugzeug",
+      "meaning": "Uçak"
+    },
+    {
+      "index": 286.0,
+      "word": "Stewardess / Stewardes",
+      "meaning": "Hostes"
+    },
+    {
+      "index": 287.0,
+      "word": "Gastgeber",
+      "meaning": "Host"
+    },
+    {
+      "index": 288.0,
+      "word": "Kapitän",
+      "meaning": "Kaptan"
+    },
+    {
+      "index": 289.0,
+      "word": "Flughafen",
+      "meaning": "Havaalanı"
+    }
+  ],
+  "Im Hotel": [
+    {
+      "index": 290.0,
+      "word": "Willkommen in unserem Hotel.",
+      "meaning": "Otelimize hoş geldiniz."
+    },
+    {
+      "index": 291.0,
+      "word": "Wie kann ich helfen?",
+      "meaning": "Nasıl yardımcı olabilirim?"
+    },
+    {
+      "index": 292.0,
+      "word": "Haben Sie eine Reservierung?",
+      "meaning": "Rezervasyonunuz var mı?"
+    },
+    {
+      "index": 293.0,
+      "word": "Haben Sie Ihre Reservierung im Internet vorgenommen?",
+      "meaning": "Rezervasyonu internetten mi yaptınız?"
+    },
+    {
+      "index": 294.0,
+      "word": "Ich überprüfe / kontrolliere.",
+      "meaning": "Kontrol ediyorum."
+    },
+    {
+      "index": 295.0,
+      "word": "Unser Hotel ist voll",
+      "meaning": "Otelimiz doludur."
+    },
+    {
+      "index": 296.0,
+      "word": "Unser Hotel im voll in der Sommersaison",
+      "meaning": "Yaz sezonu tüm odalarımız doludur."
+    },
+    {
+      "index": 297.0,
+      "word": "Es gibt zwei freie / leere Zimmer in unserem Hotel",
+      "meaning": "Otelimizde iki boş odamız vardır."
+    },
+    {
+      "index": 298.0,
+      "word": "Ich schlage vor, Sie reservieren im Voraus",
+      "meaning": "Önceden rezervasyon yapmanızı tavsiye ediyorum."
+    },
+    {
+      "index": 299.0,
+      "word": "Für wie viele Personen möchten Sie ein Zimmer?",
+      "meaning": "Kaç kişilik oda istersiniz?"
+    },
+    {
+      "index": 300.0,
+      "word": "Willst du ein Einzelzimmer?",
+      "meaning": "Tek kişilik oda mı arıyorsunuz?"
+    },
+    {
+      "index": 301.0,
+      "word": "Willst du ein Doppelzimmer?",
+      "meaning": "Çift kişilik oda mı arıyorsunuz?"
+    },
+    {
+      "index": 302.0,
+      "word": "Wir haben jetzt kein Zimmer mit Blick auf die Straße.",
+      "meaning": "Cadde tarafına bakan odamız kalmadı."
+    },
+    {
+      "index": 303.0,
+      "word": "Ich kann Ihnen ein Zimmer geben, das auf den Gang schaut.",
+      "meaning": "Avluya bakan oda verebilirim."
+    },
+    {
+      "index": 304.0,
+      "word": "Der Preis für das Einzelzimmer beträgt 100,00 türkische Lira.",
+      "meaning": "Tek kişilik oda fiyatımız 100,00 TL’dir."
+    },
+    {
+      "index": 305.0,
+      "word": "Der Preis für ein Doppelzimmer beträgt 150,00 türkische Lira.",
+      "meaning": "İki kişilik oda fiyatımız 150,00 TL’dir."
+    },
+    {
+      "index": 306.0,
+      "word": "Wie viele Tage wirst du bleiben?",
+      "meaning": "Kaç gün kalacaksınız?"
+    },
+    {
+      "index": 307.0,
+      "word": "Kann / darf ich Ihren Reisepass bekommen / nehmen?",
+      "meaning": "Pasaportunuzu alabilir miyim?"
+    },
+    {
+      "index": 308.0,
+      "word": "Kreditkarte funktioniert",
+      "meaning": "Kredi kartı geçerlidir."
+    },
+    {
+      "index": 309.0,
+      "word": "Kann / darf ich bitte Ihre Kreditkarte bekommen / nehmen?",
+      "meaning": "Kredi kartınızı alabilir miyim lütfen?"
+    },
+    {
+      "index": 310.0,
+      "word": "Bitte wählen Sie Ihre Codenummer",
+      "meaning": "Lütfen şifrenizi tuşlayınız."
+    },
+    {
+      "index": 311.0,
+      "word": "Hier ist dein Slip",
+      "meaning": "Buyurun silibiniz."
+    },
+    {
+      "index": 312.0,
+      "word": "Hier ist Ihre Rechnung",
+      "meaning": "Buyurun faturanız."
+    },
+    {
+      "index": 313.0,
+      "word": "Bitte füllen Sie Ihr Check-in-Formular aus und unterschreiben Sie es.",
+      "meaning": "Lütfen giriş formunu doldurup imzalayınız."
+    },
+    {
+      "index": 314.0,
+      "word": "Hier ist Ihre Rechnung",
+      "meaning": "Buyurun faturanız."
+    },
+    {
+      "index": 315.0,
+      "word": "Das Frühstück ist in Ihrem Rechnungspreis enthalten.",
+      "meaning": "Oda ücretine kahvaltı dahildir."
+    },
+    {
+      "index": 316.0,
+      "word": "Ihre Zimmernummer ist 6037.",
+      "meaning": "Oda numaranız 6037’dır."
+    },
+    {
+      "index": 317.0,
+      "word": "Ihr Zimmer befindet sich im sechsten Stock.",
+      "meaning": "Odanız 6. kattadır."
+    },
+    {
+      "index": 318.0,
+      "word": "Wann möchten Sie aufwachachen?",
+      "meaning": "Ne zaman uyanmak istersiniz?"
+    },
+    {
+      "index": 319.0,
+      "word": "Der Frühstücksservice ist zwischen 07:00 und 11:00 Uhr.",
+      "meaning": "Kahvaltı servisi 07:00-11:00 arasındadır."
+    },
+    {
+      "index": 320.0,
+      "word": "Unser Restaurant ist von 12:00 bis 22:00 Uhr geöffnet",
+      "meaning": "Restaurantımız 12:00-22:00 saatlerinde açıktır."
+    },
+    {
+      "index": 321.0,
+      "word": "Unser Pub ist von 21:00 bis 03:00 Uhr geöffnet.",
+      "meaning": "Barımız 21:00-03:00 saatlerinde açıktır."
+    },
+    {
+      "index": 322.0,
+      "word": "In jedem Zimmer gibt es eine Klimaanlage.",
+      "meaning": "Her odada havalandırma vardır."
+    },
+    {
+      "index": 323.0,
+      "word": "Es gibt Zimmerservice.",
+      "meaning": "Oda servisimiz mevcuttur."
+    },
+    {
+      "index": 324.0,
+      "word": "Es gibt eine chemische Reinigung.",
+      "meaning": "Kuru temizleme servisimiz mevcuttur."
+    },
+    {
+      "index": 325.0,
+      "word": "Das Fitnessstudio befindet sich im Eingangsbereich.",
+      "meaning": "Sağlık kulübü giriş kattadır."
+    },
+    {
+      "index": 326.0,
+      "word": "Unser Fitnessstudio ist von 07:00 bis 22:00 Uhr geöffnet.",
+      "meaning": "Sağlık kulübümüz 07:00-22:00 saatlerinde açıktır."
+    },
+    {
+      "index": 327.0,
+      "word": "Es gibt einen geschlossenen Pool.",
+      "meaning": "Kapalı yüzme havuzumuz vardır."
+    },
+    {
+      "index": 328.0,
+      "word": "Tennisplätze befinden sich hinter dem Hotel.",
+      "meaning": "Tenis kortları otelin arka bölümündedir."
+    },
+    {
+      "index": 329.0,
+      "word": "Sie können “0” wählen, um die Rezeption anzurufen.",
+      "meaning": "Resepsiyonu aramak için “0” tuşlayabilirsiniz."
+    },
+    {
+      "index": 330.0,
+      "word": "Unser Hotel hat das Internet ohne Kabel.",
+      "meaning": "Otelimizde kablosuz internet mevcuttur."
+    },
+    {
+      "index": 331.0,
+      "word": "Es gibt eine Internetverbindung im Zimmer.",
+      "meaning": "Odada internet bağlantısı mevcuttur."
+    },
+    {
+      "index": 332.0,
+      "word": "Bevorzugen Sie eine Tageszeitung?",
+      "meaning": "Günlük gazete tercih eder misiniz?"
+    },
+    {
+      "index": 333.0,
+      "word": "Welche Zeitung bevorzugen Sie?",
+      "meaning": "Hangi gazeteyi tercih edersiniz?"
+    },
+    {
+      "index": 334.0,
+      "word": "Ich werde Ihr Gepäck in deinem Zimmer schicken.",
+      "meaning": "Bagajlarınızı odanıza yollatacağım."
+    },
+    {
+      "index": 335.0,
+      "word": "Ich werde Ihr Gepäck aus deinem Zimmer nehmen.",
+      "meaning": "Bagajlarınızı odanızdan aldıracağım."
+    },
+    {
+      "index": 336.0,
+      "word": "Ich hoffe, Sie zufrieden mit deinem Besuch",
+      "meaning": "Ziyaretinizden memnun kaldığınızı ümit ederim."
+    },
+    {
+      "index": 337.0,
+      "word": "Check-out ist um 12:00 Uhr.",
+      "meaning": "Otelden ayrılma saati 12:00’dir."
+    },
+    {
+      "index": 338.0,
+      "word": "Dies ist die Rezeption",
+      "meaning": "Buyrun resepsiyon"
+    },
+    {
+      "index": 339.0,
+      "word": "Wie kann ich helfen?",
+      "meaning": "Nasıl yardımcı olabilirim?"
+    },
+    {
+      "index": 340.0,
+      "word": "Ich werde ab eine Klimaanlage in Ihr Zimmer schicken",
+      "meaning": "Odanıza klima servisi gönderiyorum."
+    },
+    {
+      "index": 341.0,
+      "word": "Sie können eine Reservierung für die Stadtrundfahrt am Informationsschalter vornehmen.",
+      "meaning": "Şehir turu için danışmaya rezervasyon yaptırabilirsiniz"
+    },
+    {
+      "index": 342.0,
+      "word": "Ich hoffe, Sie zufrieden mit unserem Hotel",
+      "meaning": "Umuyorum otelimizden memnun kalmıştırsınız."
+    },
+    {
+      "index": 343.0,
+      "word": "Das Taxi werden in fünf Minuten kommen",
+      "meaning": "Taksiniz 5 dakika içinde gelecek."
+    },
+    {
+      "index": 344.0,
+      "word": "Das Stadtzentrum ist fünf Minuten von unserem Hotel entfernt.",
+      "meaning": "Şehir merkezi otelimizden 15 dakika uzaktadır."
+    },
+    {
+      "index": 345.0,
+      "word": "Hier ist unser Stadtplan",
+      "meaning": "Buyurun şehir planımız"
+    },
+    {
+      "index": 346.0,
+      "word": "In dieser Gegend gibt es Museen.",
+      "meaning": "Bu bölgede müzeler bulunmaktadır."
+    },
+    {
+      "index": 347.0,
+      "word": "Hier gibt es Geschäfte zum Einkaufen",
+      "meaning": "Burada alış-veriş dükkanları vardır."
+    },
+    {
+      "index": 348.0,
+      "word": "Der Ort, an den Sie gehen möchten, ist hier.",
+      "meaning": "Gitmek istediğiniz yer buradadır"
+    },
+    {
+      "index": 349.0,
+      "word": "Sie können mit dem Taxi in die Stadtzentrum fahren.",
+      "meaning": "Şehir merkezine taksi ile gidebilirsiniz."
+    },
+    {
+      "index": 350.0,
+      "word": "Sie können mit unserem Hotelservice in die Stadtzentrum fahren.",
+      "meaning": "Şehir merkezine otelimizin servisi ile gidebilirsiniz"
+    },
+    {
+      "index": 351.0,
+      "word": "Der einfachste Weg zum Flughafen ist mit dem Taxi.",
+      "meaning": "Havaalanına en kolay taksi ile gidebilirsiniz."
+    },
+    {
+      "index": 352.0,
+      "word": "Sie können mit der U-Bahn zum Flughafen fahren.",
+      "meaning": "Havaalanına metro ile gidebilirsiniz."
+    },
+    {
+      "index": 353.0,
+      "word": "Von unserem Hotel zum Flughafen sind es ca. 30 Minuten",
+      "meaning": "Otelimizden havaalanı yaklaşık 30 dakikadadır."
+    },
+    {
+      "index": 354.0,
+      "word": "Ankunftstag",
+      "meaning": "Varış günü"
+    },
+    {
+      "index": 355.0,
+      "word": "Check out Tag",
+      "meaning": "Çıkış günü"
+    },
+    {
+      "index": 356.0,
+      "word": "Lounge / Lobby",
+      "meaning": "Lobby"
+    },
+    {
+      "index": 357.0,
+      "word": "Gesundheits Club",
+      "meaning": "Sağlık Kulübü"
+    },
+    {
+      "index": 358.0,
+      "word": "Schwimmbad",
+      "meaning": "Yüzme havuzu"
+    },
+    {
+      "index": 359.0,
+      "word": "Garage",
+      "meaning": "Garaj"
+    },
+    {
+      "index": 360.0,
+      "word": "Auto parken",
+      "meaning": "Otopark"
+    },
+    {
+      "index": 361.0,
+      "word": "Jacke",
+      "meaning": "Ceket"
+    },
+    {
+      "index": 362.0,
+      "word": "Hose",
+      "meaning": "Pantolon"
+    },
+    {
+      "index": 363.0,
+      "word": "Krawatte",
+      "meaning": "Kravat"
+    },
+    {
+      "index": 364.0,
+      "word": "Pullover",
+      "meaning": "Kazak"
+    },
+    {
+      "index": 365.0,
+      "word": "Hemd",
+      "meaning": "Gömlek"
+    },
+    {
+      "index": 366.0,
+      "word": "Kleid",
+      "meaning": "Elbise"
+    },
+    {
+      "index": 367.0,
+      "word": "Rock",
+      "meaning": "Etek"
+    },
+    {
+      "index": 368.0,
+      "word": "Nachthemd",
+      "meaning": "Gece elbisesi"
+    },
+    {
+      "index": 369.0,
+      "word": "Decke",
+      "meaning": "Battaniye"
+    },
+    {
+      "index": 370.0,
+      "word": "Bettdecke",
+      "meaning": "Yorgan"
+    },
+    {
+      "index": 371.0,
+      "word": "Kissen",
+      "meaning": "Yastık"
+    },
+    {
+      "index": 372.0,
+      "word": "Klimaanlage",
+      "meaning": "Havalandırma"
+    },
+    {
+      "index": 373.0,
+      "word": "Heizkörper",
+      "meaning": "Radyatör"
+    }
+  ],
+  "Im Restaurant": [
+    {
+      "index": 374.0,
+      "word": "Für wie viele Personen möchten Sie einen Tisch?",
+      "meaning": "Kaç kişilik bir masa istersiniz?"
+    },
+    {
+      "index": 375.0,
+      "word": "Willst du die Fensterseite?",
+      "meaning": "Cam kenarı ister misiniz?"
+    },
+    {
+      "index": 376.0,
+      "word": "Ihr Tisch für vier ist fertig",
+      "meaning": "Dört kişilik masanız hazır"
+    },
+    {
+      "index": 377.0,
+      "word": "Hier ist dein Menü",
+      "meaning": "Buyrun mönümüz"
+    },
+    {
+      "index": 378.0,
+      "word": "Ihre Getränkekarte",
+      "meaning": "İçecek mönümüz"
+    },
+    {
+      "index": 379.0,
+      "word": "Menü für Desserts",
+      "meaning": "Tatlı mönümüz"
+    },
+    {
+      "index": 380.0,
+      "word": "Hast du deine Bestellung aufgegeben?",
+      "meaning": "Sipariş verdiniz mi?"
+    },
+    {
+      "index": 381.0,
+      "word": "Was möchten Sie für einen Aperitif?",
+      "meaning": "Aperatif olarak ne arzu edersiniz?"
+    },
+    {
+      "index": 382.0,
+      "word": "Mit was würden Sie gerne anfangen?",
+      "meaning": "Başlangıç için ne arzu edersiniz?"
+    },
+    {
+      "index": 383.0,
+      "word": "Würden Sie für das Hauptgericht lieber Fisch oder Fleisch bevorzugen?",
+      "meaning": "Ana yemekte, balık mı et mi tercih edersiniz?"
+    },
+    {
+      "index": 384.0,
+      "word": "Möchten Sie Fisch in einer Pfanne gebraten oder gegrillt?",
+      "meaning": "Balığınızı ızgara mı, tava mı istersiniz?"
+    },
+    {
+      "index": 385.0,
+      "word": "Wie willst du das Fleisch gekocht?",
+      "meaning": "Etinizi nasıl pişmiş istersiniz?"
+    },
+    {
+      "index": 386.0,
+      "word": "Möchten Sie, dass das Fleisch gut, mittel oder wenig gekocht ist?",
+      "meaning": "Etinizi, iyi, orta veya çok pişmiş mi istersiniz?"
+    },
+    {
+      "index": 387.0,
+      "word": "Was möchten Sie trinken?",
+      "meaning": "Ne içmek istersiniz?"
+    },
+    {
+      "index": 388.0,
+      "word": "Möchten Sie Fruchtsaft oder Mineralwasser?",
+      "meaning": "Meyva suyu veya maden suyu mu alırdınız?"
+    },
+    {
+      "index": 389.0,
+      "word": "Möchten Sie Rot- oder Weißwein?",
+      "meaning": "Kırmızı mı yoksa beyaz şarap mı alırdınız?"
+    },
+    {
+      "index": 390.0,
+      "word": "Möchtest du Nachtisch?",
+      "meaning": "Tatlı alır mısınız?"
+    },
+    {
+      "index": 391.0,
+      "word": "Möchtest du Tee oder Kaffee?",
+      "meaning": "Çay veya kahve alır mısınız?"
+    },
+    {
+      "index": 392.0,
+      "word": "Möchten Sie Eis?",
+      "meaning": "Dondurma alır mısınız?"
+    },
+    {
+      "index": 393.0,
+      "word": "Ich bringe deine Rechnung.",
+      "meaning": "Hesabınızı getiriyorum."
+    },
+    {
+      "index": 394.0,
+      "word": "Können Sie Ihre Kartencode-Nummer wählen?",
+      "meaning": "Kart şifrenizi tuşlayınız."
+    },
+    {
+      "index": 395.0,
+      "word": "Guten Appetit",
+      "meaning": "Afiyet olsun"
+    },
+    {
+      "index": 396.0,
+      "word": "Salat",
+      "meaning": "Salata"
+    },
+    {
+      "index": 397.0,
+      "word": "Suppe",
+      "meaning": "Çorba"
+    },
+    {
+      "index": 398.0,
+      "word": "Vorspeisen / Aperetives",
+      "meaning": "Başlangıçlar/Aperatifler"
+    },
+    {
+      "index": 399.0,
+      "word": "Hauptkurs",
+      "meaning": "Ana yemek"
+    },
+    {
+      "index": 400.0,
+      "word": "Fleischgerichte",
+      "meaning": "Et yemekleri"
+    },
+    {
+      "index": 401.0,
+      "word": "Fischmehl",
+      "meaning": "Balık yemekleri"
+    },
+    {
+      "index": 402.0,
+      "word": "Hühnchengerichte",
+      "meaning": "Tavuk yemekleri"
+    },
+    {
+      "index": 403.0,
+      "word": "Kebaps",
+      "meaning": "Kebaplar"
+    },
+    {
+      "index": 404.0,
+      "word": "Pizzas",
+      "meaning": "Pizzalar"
+    },
+    {
+      "index": 405.0,
+      "word": "Snacks",
+      "meaning": "Ara sıcaklar"
+    },
+    {
+      "index": 406.0,
+      "word": "Nachspeisen",
+      "meaning": "Tatlılar"
+    },
+    {
+      "index": 407.0,
+      "word": "Getränke ohne Alkohol",
+      "meaning": "Alkolsüz içecekler"
+    },
+    {
+      "index": 408.0,
+      "word": "Getränke mit Alkohol",
+      "meaning": "Alkollü içecekler"
+    },
+    {
+      "index": 409.0,
+      "word": "Kalte Getränke",
+      "meaning": "Soğuk içecekler"
+    },
+    {
+      "index": 410.0,
+      "word": "Heiße Getränke",
+      "meaning": "Sıcak içecekler"
+    },
+    {
+      "index": 411.0,
+      "word": "Joghurt",
+      "meaning": "Yoğurt"
+    },
+    {
+      "index": 412.0,
+      "word": "Apfel",
+      "meaning": "Elma"
+    },
+    {
+      "index": 413.0,
+      "word": "Birne",
+      "meaning": "Armut"
+    },
+    {
+      "index": 414.0,
+      "word": "Wassermelone",
+      "meaning": "Karpuz"
+    },
+    {
+      "index": 415.0,
+      "word": "Melone",
+      "meaning": "Kavun"
+    },
+    {
+      "index": 416.0,
+      "word": "Traube",
+      "meaning": "Üzüm"
+    },
+    {
+      "index": 417.0,
+      "word": "Grapefruit",
+      "meaning": "Greyfurt"
+    },
+    {
+      "index": 418.0,
+      "word": "Zucker",
+      "meaning": "Şeker"
+    },
+    {
+      "index": 419.0,
+      "word": "Milch",
+      "meaning": "Süt"
+    },
+    {
+      "index": 420.0,
+      "word": "Olivenöl",
+      "meaning": "Zeytinyağı"
+    },
+    {
+      "index": 421.0,
+      "word": "Essig",
+      "meaning": "Sirke"
+    },
+    {
+      "index": 422.0,
+      "word": "Zitrone",
+      "meaning": "Limon"
+    },
+    {
+      "index": 423.0,
+      "word": "Salz",
+      "meaning": "Tuz"
+    },
+    {
+      "index": 424.0,
+      "word": "Schwarzer Pfeffer",
+      "meaning": "Karabiber"
+    },
+    {
+      "index": 425.0,
+      "word": "roter Pfeffer",
+      "meaning": "Kırmızı biber"
+    },
+    {
+      "index": 426.0,
+      "word": "Bier",
+      "meaning": "Bira"
+    },
+    {
+      "index": 427.0,
+      "word": "Ein Liter Wein",
+      "meaning": "1 litre şarap"
+    },
+    {
+      "index": 428.0,
+      "word": "35 ccm Wein",
+      "meaning": "35 ml şarap"
+    },
+    {
+      "index": 429.0,
+      "word": "Hauswein",
+      "meaning": "Ev şarabı"
+    },
+    {
+      "index": 430.0,
+      "word": "Schaumwein",
+      "meaning": "Köpüklü şarap"
+    },
+    {
+      "index": 431.0,
+      "word": "Whiskey",
+      "meaning": "Viski"
+    },
+    {
+      "index": 432.0,
+      "word": "Brandy",
+      "meaning": "Konyak"
+    },
+    {
+      "index": 433.0,
+      "word": "Raki",
+      "meaning": "Rakı"
+    },
+    {
+      "index": 434.0,
+      "word": "Koks",
+      "meaning": "Kola"
+    },
+    {
+      "index": 435.0,
+      "word": "Tee",
+      "meaning": "Çay"
+    },
+    {
+      "index": 436.0,
+      "word": "Kaffee",
+      "meaning": "Kahve"
+    },
+    {
+      "index": 437.0,
+      "word": "Kaffee mit Milch",
+      "meaning": "Sütlü kahve"
+    },
+    {
+      "index": 438.0,
+      "word": "Mineralwasser",
+      "meaning": "Maden suyu"
+    },
+    {
+      "index": 439.0,
+      "word": "Fruchtsaft",
+      "meaning": "Meyva suyu"
+    },
+    {
+      "index": 440.0,
+      "word": "Unser Restaurant ist von 12:00 bis 24:00 Uhr geöffnet.",
+      "meaning": "Restaurantımız 12:00-24:00 saatlerinde açıktır"
+    },
+    {
+      "index": 441.0,
+      "word": "Wir haben Paketservice zu Häusern.",
+      "meaning": "Evlere paket servisimiz vardır."
+    },
+    {
+      "index": 442.0,
+      "word": "Unser Telefon für den Paketdienst ist 444 0 000.",
+      "meaning": "Paket servisi için telefonumuz 444 0 000’dır."
+    },
+    {
+      "index": 443.0,
+      "word": "Frühstück",
+      "meaning": "Kahvaltı"
+    },
+    {
+      "index": 444.0,
+      "word": "Mittagessen",
+      "meaning": "Öğlen yemeği"
+    },
+    {
+      "index": 445.0,
+      "word": "Abendessen",
+      "meaning": "Akşam yemeği"
+    },
+    {
+      "index": 446.0,
+      "word": "Stuhl",
+      "meaning": "Sandalye"
+    },
+    {
+      "index": 447.0,
+      "word": "Tabelle",
+      "meaning": "Masa"
+    },
+    {
+      "index": 448.0,
+      "word": "Serviette",
+      "meaning": "Peçete"
+    },
+    {
+      "index": 449.0,
+      "word": "Glas",
+      "meaning": "Bardak"
+    },
+    {
+      "index": 450.0,
+      "word": "Teller",
+      "meaning": "Tabak"
+    },
+    {
+      "index": 451.0,
+      "word": "Gabel",
+      "meaning": "Çatal"
+    },
+    {
+      "index": 452.0,
+      "word": "Messer",
+      "meaning": "Bıçak"
+    },
+    {
+      "index": 453.0,
+      "word": "Löffel",
+      "meaning": "Kaşık"
+    },
+    {
+      "index": 454.0,
+      "word": "Dessertlöffel",
+      "meaning": "Tatlı kaşığı"
+    },
+    {
+      "index": 455.0,
+      "word": "Teelöffel",
+      "meaning": "Çay kaşığı"
+    }
+  ],
+  "Transport": [
+    {
+      "index": 456.0,
+      "word": "Warten Sie an der roten Linie.",
+      "meaning": "Kırmızı çizgide bekleyiniz."
+    },
+    {
+      "index": 457.0,
+      "word": "Der Bus fährt nach 15 Minuten.",
+      "meaning": "Otobüs 15 dakika sonra kalkacaktır."
+    },
+    {
+      "index": 458.0,
+      "word": "Alle dreißig Minuten fährt ein Bus.",
+      "meaning": "Her 30 dakikada bir otobüs seferi vardır."
+    },
+    {
+      "index": 459.0,
+      "word": "Der Bus fährt in die Innenstadt.",
+      "meaning": "Otobüs şehir merkezine gider."
+    },
+    {
+      "index": 460.0,
+      "word": "Kann ich Ihr Gepäck nehmen?",
+      "meaning": "Bagajınızı alabilir miyim?"
+    },
+    {
+      "index": 461.0,
+      "word": "Hast du zwei Koffer?",
+      "meaning": "2 tane mi bavulunuz var?"
+    },
+    {
+      "index": 462.0,
+      "word": "Hier ist Ihre Koffernummer",
+      "meaning": "Buyurun bavul fişiniz."
+    },
+    {
+      "index": 463.0,
+      "word": "Wie viele Leute sin Sie?",
+      "meaning": "Kaç kişisiniz?"
+    },
+    {
+      "index": 464.0,
+      "word": "Eine Person ist 12,00 türkische Lira",
+      "meaning": "1 kişi 12,00 TL’dir"
+    },
+    {
+      "index": 465.0,
+      "word": "12,00 türkische Lira entsprechen 6 Euro.",
+      "meaning": "12,00 TL, 6 Euro karşılığıdır."
+    },
+    {
+      "index": 466.0,
+      "word": "Hast du 2 türkische Lira zum Wechseln?",
+      "meaning": "2,00 TL bozuk paranız var mı?"
+    },
+    {
+      "index": 467.0,
+      "word": "Hier ist der Rest Ihres Geldes",
+      "meaning": "Buyurun paranızın üstü."
+    },
+    {
+      "index": 468.0,
+      "word": "Hier ist Ihre Quittung",
+      "meaning": "Buyrun bu fişiniz."
+    },
+    {
+      "index": 469.0,
+      "word": "Wo willst du aussteigen?",
+      "meaning": "Nerede inmek istiyorsunuz?"
+    },
+    {
+      "index": 470.0,
+      "word": "Möchten Sie an der letzten Haltestelle aussteigen?",
+      "meaning": "Son durakta mı inmek istiyorsunuz?"
+    },
+    {
+      "index": 471.0,
+      "word": "Wir werden nach 20 Minuten in der Innenstadt ankommen.",
+      "meaning": "Şehir merkezine 20 dakika sonra varacağız."
+    },
+    {
+      "index": 472.0,
+      "word": "Der Busbahnhof ist rund um die Uhr geöffnet.",
+      "meaning": "Otobüs terminali 24 saat açıktır."
+    }
+  ],
+  "Zug": [
+    {
+      "index": 473.0,
+      "word": "Bitte stellen Sie sich in die Warteschlange für das Ticket.",
+      "meaning": "Tren bileti için lütfen kuyruğa giriniz."
+    },
+    {
+      "index": 474.0,
+      "word": "Wohin willst du gehen?",
+      "meaning": "Nereye gitmek istiyorsunuz?"
+    },
+    {
+      "index": 475.0,
+      "word": "Welchen Tag willst du gehen?",
+      "meaning": "Hangi gün gitmek istiyorsunuz?"
+    },
+    {
+      "index": 476.0,
+      "word": "Für wie viele Personen möchten Sie ein Ticket?",
+      "meaning": "Kaç kişilik bilet istiyorsunuz?"
+    },
+    {
+      "index": 477.0,
+      "word": "Möchten Sie ein einzelnes Ticket?",
+      "meaning": "Tek yön bilet mi istiyorsunuz?"
+    },
+    {
+      "index": 478.0,
+      "word": "Welche Klasse willst du?",
+      "meaning": "Hangi sınıftan istiyorsunuz?"
+    },
+    {
+      "index": 479.0,
+      "word": "Möchten Sie eine Doppelfahrkarte?",
+      "meaning": "Gidiş-dönüş mü istiyorsunuz?"
+    },
+    {
+      "index": 480.0,
+      "word": "Willst du einen Wagen mit dem Bett?",
+      "meaning": "Yataklı vagon mu istersiniz?"
+    },
+    {
+      "index": 481.0,
+      "word": "Der Fahrpreis für eine Doppelfahrkarte beträgt 90,00 türkische Lira",
+      "meaning": "Gidiş-dönüş bilet fiyatı 90,00 TL’dir."
+    },
+    {
+      "index": 482.0,
+      "word": "Hier ist der Rest Ihres Geldes.",
+      "meaning": "Buyurun paranızın üstü"
+    },
+    {
+      "index": 483.0,
+      "word": "Hier ist Ihr Ticket.",
+      "meaning": "Buyrun biletiniz"
+    },
+    {
+      "index": 484.0,
+      "word": "Gibt es ein Restaurant im Zug?",
+      "meaning": "Trende restaurant var mı?"
+    },
+    {
+      "index": 485.0,
+      "word": "Abfahrtszeit ist 13:30 Uhr, Ankunftszeit ist 18:00 Uhr.",
+      "meaning": "Kalkış saati 12:30, varış saati 18:00’dir."
+    },
+    {
+      "index": 486.0,
+      "word": "Ihr Zug fährt vom 4. Bahnsteig ab.",
+      "meaning": "Treniniz 4. perondan kalkacaktır"
+    }
+  ],
+  "Taxi": [
+    {
+      "index": 487.0,
+      "word": "Wohin willst du gehen?",
+      "meaning": "Nereye gitmek istersiniz?"
+    },
+    {
+      "index": 488.0,
+      "word": "Wir werden 15 Minuten dort sein.",
+      "meaning": "15 dakika sonra orada olacağız."
+    },
+    {
+      "index": 489.0,
+      "word": "Möchten Sie das Stadtzentrum sehen?",
+      "meaning": "Şehri görmek ister misiniz?"
+    },
+    {
+      "index": 490.0,
+      "word": "Taxameter beginnt mit 2 türkischen Lira.",
+      "meaning": "Taksi metre 2,00 TL’den başlamaktadır."
+    },
+    {
+      "index": 491.0,
+      "word": "Der Ort, an den Sie gehen, kostet ungefähr 12 türkische Lira.",
+      "meaning": "Gideceğiniz yer yaklaşık 12,00 TL tutar."
+    },
+    {
+      "index": 492.0,
+      "word": "12,00 türkische Lira, bitte.",
+      "meaning": "12,00 TL lütfen."
+    },
+    {
+      "index": 493.0,
+      "word": "Haben Sie bitte 2 türkische Lira zum Wechseln?",
+      "meaning": "Sizde 2,00 TL bozuk var mı?"
+    },
+    {
+      "index": 494.0,
+      "word": "Natürlich können Sie auch in Euro bezahlen.",
+      "meaning": "Tabii ki Euro olarak da ödeyebilirsiniz."
+    },
+    {
+      "index": 495.0,
+      "word": "… Türkische Lira kostet 10 Euro.",
+      "meaning": "… TL 10 Euro olur."
+    },
+    {
+      "index": 496.0,
+      "word": "Ich werde den Rest des Geldes in Lira geben.",
+      "meaning": "Para üstünü TL vereceğim."
+    },
+    {
+      "index": 497.0,
+      "word": "Hier ist der Rest Ihres Geldes.",
+      "meaning": "Buyrun paranızın üstü"
+    },
+    {
+      "index": 498.0,
+      "word": "Hab schöne Ferien",
+      "meaning": "İyi tatiller."
+    }
+  ],
+  "Im weg": [
+    {
+      "index": 499.0,
+      "word": "Wohin willst du gehen?",
+      "meaning": "Nereye gitmek istiyorsunuz?"
+    },
+    {
+      "index": 500.0,
+      "word": "Sie sollten diesem Weg zum Großen Basar folgen.",
+      "meaning": "Kapalı çarşı için bu yolu takip etmelisiniz."
+    },
+    {
+      "index": 501.0,
+      "word": "Gehen Sie die erste Straße rechts und fahren Sie geradeaus. Es ist die zweite Straße links.",
+      "meaning": "İlk sağ sokaktan girin, düz gidin soldaki ikinci sokak."
+    },
+    {
+      "index": 502.0,
+      "word": "Neben an",
+      "meaning": "Yanında"
+    },
+    {
+      "index": 503.0,
+      "word": "Auf der rechten Seite",
+      "meaning": "Sağında"
+    },
+    {
+      "index": 504.0,
+      "word": "Links",
+      "meaning": "Solunda"
+    },
+    {
+      "index": 505.0,
+      "word": "Auf",
+      "meaning": "Üstünde"
+    },
+    {
+      "index": 506.0,
+      "word": "Unter",
+      "meaning": "Altında"
+    },
+    {
+      "index": 507.0,
+      "word": "Kreuz",
+      "meaning": "Çaprazında"
+    },
+    {
+      "index": 508.0,
+      "word": "Gegenüber dem Weg",
+      "meaning": "Yolun karşısında"
+    },
+    {
+      "index": 509.0,
+      "word": "Gehen Sie direkt weiter",
+      "meaning": "Düz devam ediniz"
+    },
+    {
+      "index": 510.0,
+      "word": "Das erste Recht",
+      "meaning": "İlk sağ"
+    },
+    {
+      "index": 511.0,
+      "word": "Der erste links",
+      "meaning": "İlk sol"
+    },
+    {
+      "index": 512.0,
+      "word": "Nimm die zweite rechts",
+      "meaning": "İkinci sağdan dönünüz"
+    },
+    {
+      "index": 513.0,
+      "word": "Biege an der zweiten links ab",
+      "meaning": "İkinci soldan dönünüz"
+    },
+    {
+      "index": 514.0,
+      "word": "Die erste Straße",
+      "meaning": "İlk sokak"
+    },
+    {
+      "index": 515.0,
+      "word": "Die zweite Straße",
+      "meaning": "İkinci sokak"
+    },
+    {
+      "index": 516.0,
+      "word": "Straße",
+      "meaning": "Cadde"
+    },
+    {
+      "index": 517.0,
+      "word": "Kreuzung",
+      "meaning": "Kavşak"
+    },
+    {
+      "index": 518.0,
+      "word": "Straße",
+      "meaning": "Sokak"
+    },
+    {
+      "index": 519.0,
+      "word": "Ringstraße / Autobahn",
+      "meaning": "Çevreyolu"
+    },
+    {
+      "index": 520.0,
+      "word": "Küstenweg",
+      "meaning": "Sahil yolu"
+    },
+    {
+      "index": 521.0,
+      "word": "Einweg",
+      "meaning": "Tek yönlü yol"
+    },
+    {
+      "index": 522.0,
+      "word": "Doppelweg",
+      "meaning": "Gidiş-geliş yol"
+    },
+    {
+      "index": 523.0,
+      "word": "Tunnel",
+      "meaning": "Tünel"
+    },
+    {
+      "index": 524.0,
+      "word": "Kreis",
+      "meaning": "Semt"
+    },
+    {
+      "index": 525.0,
+      "word": "Stadt",
+      "meaning": "İl"
+    },
+    {
+      "index": 526.0,
+      "word": "Stadt, Dorf",
+      "meaning": "İlçe"
+    },
+    {
+      "index": 527.0,
+      "word": "Wagen",
+      "meaning": "Araba"
+    },
+    {
+      "index": 528.0,
+      "word": "Taxi",
+      "meaning": "Taksi"
+    },
+    {
+      "index": 529.0,
+      "word": "Bus",
+      "meaning": "Otobüs"
+    },
+    {
+      "index": 530.0,
+      "word": "Bushaltestelle",
+      "meaning": "Otobüs durağı"
+    },
+    {
+      "index": 531.0,
+      "word": "Unter Tage",
+      "meaning": "Metro"
+    },
+    {
+      "index": 532.0,
+      "word": "Wagen",
+      "meaning": "Tramvay"
+    },
+    {
+      "index": 533.0,
+      "word": "LKW",
+      "meaning": "Kamyon"
+    },
+    {
+      "index": 534.0,
+      "word": "Van",
+      "meaning": "Kamyonet"
+    }
+  ],
+  "Theater": [
+    {
+      "index": 535.0,
+      "word": "Möchten Sie für welche Sitzung ein Ticket?",
+      "meaning": "Hangi seans için bilet istersiniz?"
+    },
+    {
+      "index": 536.0,
+      "word": "Heute haben wir 2 Sitzungen.",
+      "meaning": "Bugün 2 seansımız var."
+    },
+    {
+      "index": 537.0,
+      "word": "Hier ist Ihr Ticket für die zweite Sitzung.",
+      "meaning": "İkinci seans için biletinizi buyurun."
+    },
+    {
+      "index": 538.0,
+      "word": "Welche Plätze bevorzugen Sie?",
+      "meaning": "Hangi koltukları tercih edersiniz?"
+    },
+    {
+      "index": 539.0,
+      "word": "Der Fahrpreis für zwei Personen beträgt 20,00 türkische Lira.",
+      "meaning": "İki kişilik biletin fiyatı 20,00 TL. ’dir."
+    },
+    {
+      "index": 540.0,
+      "word": "Das Spiel beginnt nach 20 Minuten.",
+      "meaning": "Oyun 20 dakika sonra başlayacak."
+    },
+    {
+      "index": 541.0,
+      "word": "Das Spiel hat 2 Teilen",
+      "meaning": "Oyun 2 perdeliktir."
+    }
+  ],
+  "Kleidungsladen": [
+    {
+      "index": 542.0,
+      "word": "Unsere Abteilung für Männer befindet sich im Obergeschoss.",
+      "meaning": "Bay reyonumuz üst kattadır."
+    },
+    {
+      "index": 543.0,
+      "word": "Unsere Abteilung für Frauen befindet sich im Eingangsbereich.",
+      "meaning": "Bayan reyonumuz giriş katındadır."
+    },
+    {
+      "index": 544.0,
+      "word": "Unsere Abteilung für Kinder befindet sich im Erdgeschoss.",
+      "meaning": "Çocuk reyonumuz alt kattadır."
+    },
+    {
+      "index": 545.0,
+      "word": "Was möchte?",
+      "meaning": "Ne arzu etmiştiniz?"
+    },
+    {
+      "index": 546.0,
+      "word": "Welche Rockfarbe willst du?",
+      "meaning": "Ne renk etek istersiniz?"
+    },
+    {
+      "index": 547.0,
+      "word": "Was ist deine Rockgröße?",
+      "meaning": "Etek bedeniniz nedir?"
+    },
+    {
+      "index": 548.0,
+      "word": "Ist diese Größe klein?",
+      "meaning": "Bu beden küçük mü?"
+    },
+    {
+      "index": 549.0,
+      "word": "Ist diese Größe groß?",
+      "meaning": "Bu beden büyük mü?"
+    },
+    {
+      "index": 550.0,
+      "word": "Passte diese Größe zu Ihnen?",
+      "meaning": "Bu beden tam oldu mu?"
+    },
+    {
+      "index": 551.0,
+      "word": "Was für ein Kleid suchst du?",
+      "meaning": "Nasıl bir elbise arıyorsunuz?"
+    },
+    {
+      "index": 552.0,
+      "word": "Suchen Sie ein Nachthemd?",
+      "meaning": "Gece elbisesi mi arıyorsunuz?"
+    },
+    {
+      "index": 553.0,
+      "word": "Suchen Sie ein lässiges Kleid?",
+      "meaning": "Günlük elbise mi arıyorsunuz?"
+    },
+    {
+      "index": 554.0,
+      "word": "Wie groß ist dein Badekoffer?",
+      "meaning": "Mayo bedeniniz nedir?"
+    },
+    {
+      "index": 555.0,
+      "word": "Möchten Sie den Badekoffer in 2 oder 1 Stück?",
+      "meaning": "İki parça mı tek parça mayo mu istersiniz?"
+    },
+    {
+      "index": 556.0,
+      "word": "Willst du pareo?",
+      "meaning": "Pareo ister misiniz?"
+    },
+    {
+      "index": 557.0,
+      "word": "Blau Farbe ist in diesem Jahr mode",
+      "meaning": "Mayoda bu yıl mavi renk moda."
+    },
+    {
+      "index": 558.0,
+      "word": "Möchtest du Strandpantoffeln?",
+      "meaning": "Plaj terliği ister misiniz?"
+    },
+    {
+      "index": 559.0,
+      "word": "Willst du einen Strohhut?",
+      "meaning": "Hasır şapka ister misiniz?"
+    },
+    {
+      "index": 560.0,
+      "word": "Was ist deine Hemdgröße?",
+      "meaning": "Gömlek bedeniniz nedir?"
+    },
+    {
+      "index": 561.0,
+      "word": "Wie willst du Hemd?",
+      "meaning": "Nasıl bir gömlek istersiniz?"
+    },
+    {
+      "index": 562.0,
+      "word": "Ich möchte dein weißes Hemdmuster sehen.",
+      "meaning": "Beyaz gömlek modelinizi göstermek isterim."
+    },
+    {
+      "index": 563.0,
+      "word": "Was ist deine Schuhgröße?",
+      "meaning": "Ayakkabı numaranız nedir?"
+    },
+    {
+      "index": 564.0,
+      "word": "Welche Schuhfarbe willst du?",
+      "meaning": "Ne renk ayakkabı istersiniz?"
+    },
+    {
+      "index": 565.0,
+      "word": "Hier ist dein schwarzer, kräftiger Lederschuh.",
+      "meaning": "Siyah kösele tabanlı ayakkabınızı buyurun."
+    },
+    {
+      "index": 566.0,
+      "word": "Welche Hosengröße trägst du?",
+      "meaning": "Pantolon bedeniniz nedir?"
+    },
+    {
+      "index": 567.0,
+      "word": "Unsere Jeansmodelle sind in dieser Abteilung",
+      "meaning": "Jean pantolon modellerimiz şu reyondadır"
+    },
+    {
+      "index": 568.0,
+      "word": "Suchen Sie einen Anzug?",
+      "meaning": "Takım elbise mi arıyorsunuz?"
+    },
+    {
+      "index": 569.0,
+      "word": "Welchen Denim suchst du?",
+      "meaning": "Nasıl kesim arıyorsunuz?"
+    },
+    {
+      "index": 570.0,
+      "word": "Einer geknöpft?",
+      "meaning": "Tek düğmeli mi?"
+    },
+    {
+      "index": 571.0,
+      "word": "Zwei geknöpft?",
+      "meaning": "İki düğmeli mi?"
+    },
+    {
+      "index": 572.0,
+      "word": "Zweireiher?",
+      "meaning": "Kruvaze mi?"
+    },
+    {
+      "index": 573.0,
+      "word": "An welche Farbe denkst du?",
+      "meaning": "Kravatınızı ne renk düşünürsünüz?"
+    },
+    {
+      "index": 574.0,
+      "word": "Wie alt ist Ihr Kind?",
+      "meaning": "Çocuğunuz kaç yaşında?"
+    },
+    {
+      "index": 575.0,
+      "word": "Eine Mädchen oder einer Junge?",
+      "meaning": "Kız mı erkek mi?"
+    },
+    {
+      "index": 576.0,
+      "word": "Welche Farbe an Sie ein Sweatshirt denken?",
+      "meaning": "Ne renk sweatshirt düşünüyorsunuz?"
+    },
+    {
+      "index": 577.0,
+      "word": "Willst du ein T-Shirt?",
+      "meaning": "Tişört ister misiniz?"
+    },
+    {
+      "index": 578.0,
+      "word": "Willst du ein Sweatshirt?",
+      "meaning": "Sweatshirt ister misiniz?"
+    },
+    {
+      "index": 579.0,
+      "word": "Willst du einen Pullover?",
+      "meaning": "Kazak ister misiniz?"
+    },
+    {
+      "index": 580.0,
+      "word": "Möchten Sie einen V-Kragen oder einen runden Kragen?",
+      "meaning": "V yaka mı yoksa yuvarlak yaka mı istersiniz?"
+    },
+    {
+      "index": 581.0,
+      "word": "Möchten Sie ein T-Shirt mit Fahrradkragen?",
+      "meaning": "Bisiklet yaka tişört ister misiniz?"
+    },
+    {
+      "index": 582.0,
+      "word": "Sie können rosa Farbe Bevorzugen",
+      "meaning": "Pembe rengi tercih edebilirsiniz"
+    },
+    {
+      "index": 583.0,
+      "word": "Der Preis beträgt 95,00 türkische Lira.",
+      "meaning": "Fiyatı 95,00 TL’dir."
+    },
+    {
+      "index": 584.0,
+      "word": "Ich kann einen Rabatt für Sie machen.",
+      "meaning": "Size indirim yapabilirim."
+    },
+    {
+      "index": 585.0,
+      "word": "Sie können mit Kreditkarte bezahlen.",
+      "meaning": "Kredi kartı ile ödeyebilirsiniz."
+    },
+    {
+      "index": 586.0,
+      "word": "Magst du es?",
+      "meaning": "Bunu beğendiniz mi?"
+    },
+    {
+      "index": 587.0,
+      "word": "Magst du nicht es?",
+      "meaning": "Bunu beğenmediniz mi?"
+    }
+  ],
+  "Elektrofachgeschäft": [
+    {
+      "index": 588.0,
+      "word": "Wie kann ich helfen ?",
+      "meaning": "Nasıl yardımcı olabilirim?"
+    },
+    {
+      "index": 589.0,
+      "word": "Welche Art von Kamera suchen Sie?",
+      "meaning": "Nasıl bir fotoğraf makinesi arıyorsunuz?"
+    },
+    {
+      "index": 590.0,
+      "word": "Unser neuestes Modell ist 8 MP.",
+      "meaning": "En yeni modelimiz 8 MP’dir."
+    },
+    {
+      "index": 591.0,
+      "word": "Unsere kleinsten Modelle sind hier",
+      "meaning": "En küçük modellerimiz şunlardır."
+    },
+    {
+      "index": 592.0,
+      "word": "Unsere dünnsten Modelle sind hier",
+      "meaning": "En ince modellerimiz şunlardır."
+    },
+    {
+      "index": 593.0,
+      "word": "Unsere professionellsten Modelle sind hier",
+      "meaning": "En profesyonel modellerimiz şunlardır."
+    },
+    {
+      "index": 594.0,
+      "word": "Es gibt zwei weitere verschiedenfarbige Kameras",
+      "meaning": "Bu fotoğraf makinesinin 2 rengi daha vardır."
+    },
+    {
+      "index": 595.0,
+      "word": "Der Preis für die Kamera beträgt 250,00 türkische Lira.",
+      "meaning": "Fotoğraf makinesinin fiyatı 250,00 TL’dir."
+    },
+    {
+      "index": 596.0,
+      "word": "Nimmst du das Video auf?",
+      "meaning": "Video çekici mi alacaksınız?"
+    },
+    {
+      "index": 597.0,
+      "word": "Hier ist der kleine Typ eines Videorecorders.",
+      "meaning": "Buyurun bu küçük boy video çekicidir."
+    },
+    {
+      "index": 598.0,
+      "word": "Dieser Videorecorder macht auch Fotos.",
+      "meaning": "Bu video çekici aynı zamanda fotoğraf da çeker."
+    },
+    {
+      "index": 599.0,
+      "word": "Diese Maschine arbeitet mit SD.",
+      "meaning": "Bu makine SD kartı ile çalışır."
+    },
+    {
+      "index": 600.0,
+      "word": "Die Batterien halten 8 Stunden.",
+      "meaning": "8 saat pil ömrü vardır."
+    },
+    {
+      "index": 601.0,
+      "word": "Mit einer 64-GB-SD-Karte können Sie 10.000 Fotos aufnehmen.",
+      "meaning": "64 GB SD kartı ile 10.000 fotoğraf çekebilirsiniz."
+    },
+    {
+      "index": 602.0,
+      "word": "Dies ist das billigste Modell.",
+      "meaning": "En ucuz model budur."
+    },
+    {
+      "index": 603.0,
+      "word": "Dies ist das teuerste Modell.",
+      "meaning": "En pahalı model budur."
+    },
+    {
+      "index": 604.0,
+      "word": "Der Preis dieses Modells ist der beste.",
+      "meaning": "Bu modelin fiyatı uygundur."
+    },
+    {
+      "index": 605.0,
+      "word": "Suchen Sie MP3?",
+      "meaning": "MP3 mü arıyorsunuz?"
+    },
+    {
+      "index": 606.0,
+      "word": "Wie viele GB MP3 suchen Sie?",
+      "meaning": "Kaç GB’lık MP3 arıyorsunuz?"
+    },
+    {
+      "index": 607.0,
+      "word": "Der Speicher dieses MP3 beträgt 8 GB",
+      "meaning": "Bu MP3’ün hafızası 8 GB’dır."
+    },
+    {
+      "index": 608.0,
+      "word": "Wie viele Kits hat dieser MP3?",
+      "meaning": "Bu MP3’ün kaç araç kiti var ?"
+    },
+    {
+      "index": 609.0,
+      "word": "Dieser MP3 hat Radio-Spezialität.",
+      "meaning": "Bu MP3’ün radyo özelliği vardır."
+    },
+    {
+      "index": 610.0,
+      "word": "Sie können Waw-Dateien in MP3 laden.",
+      "meaning": "MP3’e waw dosyası yükleyebilirsiniz."
+    },
+    {
+      "index": 611.0,
+      "word": "Willst du ein Handy?",
+      "meaning": "Cep telefonu mu istiyorsunuz?"
+    },
+    {
+      "index": 612.0,
+      "word": "Welches Modell suchen Sie?",
+      "meaning": "Nasıl bir model arıyorsunuz?"
+    },
+    {
+      "index": 613.0,
+      "word": "Mit Kamera",
+      "meaning": "Kameralı"
+    },
+    {
+      "index": 614.0,
+      "word": "Mit MP3",
+      "meaning": "MP3’lü"
+    },
+    {
+      "index": 615.0,
+      "word": "Es kann ein Foto machen.",
+      "meaning": "Fotoğraf çekebilir."
+    },
+    {
+      "index": 616.0,
+      "word": "Freisprech-Spezialität",
+      "meaning": "Eller serbest özelliği"
+    },
+    {
+      "index": 617.0,
+      "word": "Polyphone Sprachspezialität",
+      "meaning": "Polifonik ses özelliği"
+    },
+    {
+      "index": 618.0,
+      "word": "Akkulaufzeit sind 80 Stunden",
+      "meaning": "80 saat pil ömrü"
+    },
+    {
+      "index": 619.0,
+      "word": "Die Wartezeit sind 140 Stunden",
+      "meaning": "bekleme süresi 140 saattir"
+    },
+    {
+      "index": 620.0,
+      "word": "SD kann eingelegt werden",
+      "meaning": "SD kartı takılabilir."
+    },
+    {
+      "index": 621.0,
+      "word": "Wie suchen Sie einen Computer?",
+      "meaning": "Nasıl bir dizüstü bilgisayar arıyorsunuz?"
+    },
+    {
+      "index": 622.0,
+      "word": "Dieser Laptop hat einen guten Preis",
+      "meaning": "Bu dizüstü bilgisayarın fiyatı çok uygundur."
+    },
+    {
+      "index": 623.0,
+      "word": "DVD-Player sind in diesem Stall",
+      "meaning": "DVD oynatıcılar bu standadır"
+    }
+  ],
+  "Kosmetika": [
+    {
+      "index": 624.0,
+      "word": "Parfums für Frauen sind auf dieser Seite.",
+      "meaning": "Bayan parfümleri şu taraftadır."
+    },
+    {
+      "index": 625.0,
+      "word": "Wie suchst du Duft ?",
+      "meaning": "Nasıl bir koku arıyorsunuz?"
+    },
+    {
+      "index": 626.0,
+      "word": "Parfums mit Blumenduft sind hier",
+      "meaning": "Çiçek kokuku parfümler buradadır."
+    },
+    {
+      "index": 627.0,
+      "word": "Hier sind fruchtige Parfums.",
+      "meaning": "Bunlar meyvalı parfümlerdir."
+    },
+    {
+      "index": 628.0,
+      "word": "Da ist die Seife dieser Marke.",
+      "meaning": "Bu markanın sabunu vardır."
+    },
+    {
+      "index": 629.0,
+      "word": "Es gibt dieser Marke deodorant.",
+      "meaning": "Bu markanın deodorantı vardır."
+    },
+    {
+      "index": 630.0,
+      "word": "Parfums für Männer sind auf dieser Seite.",
+      "meaning": "Erkek parfümleri bu taraftadır."
+    },
+    {
+      "index": 631.0,
+      "word": "Welches Markenparfüm suchen Sie?",
+      "meaning": "Hangi marka parfüm arıyorsunuz?"
+    },
+    {
+      "index": 632.0,
+      "word": "Es gibt keine Produkte dieser Firma.",
+      "meaning": "O firmanın ürünü mevcut değil."
+    },
+    {
+      "index": 633.0,
+      "word": "Ich schlage Ihnen das Produkt dieser Firma vor.",
+      "meaning": "Size bu firmanın ürününü öneririm."
+    },
+    {
+      "index": 634.0,
+      "word": "Dieses Produkt ist neu.",
+      "meaning": "Bu ürün yeni çıktı."
+    },
+    {
+      "index": 635.0,
+      "word": "Möchten Sie probieren?",
+      "meaning": "Denemek ister misiniz?"
+    },
+    {
+      "index": 636.0,
+      "word": "Dies ist unser meistverkauftes Produkt",
+      "meaning": "Bu en çok satan ürünümüzdür."
+    },
+    {
+      "index": 637.0,
+      "word": "Welche Lippenstiftfarbe möchten Sie?",
+      "meaning": "Ne renk ruj istersiniz?"
+    },
+    {
+      "index": 638.0,
+      "word": "Rouge",
+      "meaning": "Allık"
+    },
+    {
+      "index": 639.0,
+      "word": "Wimperntusche",
+      "meaning": "Rimel"
+    },
+    {
+      "index": 640.0,
+      "word": "Wimperntusche",
+      "meaning": "Maskara"
+    },
+    {
+      "index": 641.0,
+      "word": "Lidschatten",
+      "meaning": "Göz farı"
+    },
+    {
+      "index": 642.0,
+      "word": "Nagellack",
+      "meaning": "Oje"
+    },
+    {
+      "index": 643.0,
+      "word": "Aceton",
+      "meaning": "Aseton"
+    },
+    {
+      "index": 644.0,
+      "word": "Baumwolle",
+      "meaning": "Pamuk"
+    },
+    {
+      "index": 645.0,
+      "word": "Zahnpasta",
+      "meaning": "Diş macunu"
+    },
+    {
+      "index": 646.0,
+      "word": "Zahnbürste",
+      "meaning": "Diş fırçası"
+    },
+    {
+      "index": 647.0,
+      "word": "Seife",
+      "meaning": "Sabun"
+    },
+    {
+      "index": 648.0,
+      "word": "Haarspray",
+      "meaning": "Saç spreyi"
+    },
+    {
+      "index": 649.0,
+      "word": "Erweichungscreme",
+      "meaning": "Nemlendirici krem"
+    },
+    {
+      "index": 650.0,
+      "word": "Nachtcreme",
+      "meaning": "Gece kremi"
+    },
+    {
+      "index": 651.0,
+      "word": "Tagescreme",
+      "meaning": "Gündüz kremi"
+    },
+    {
+      "index": 652.0,
+      "word": "Shampoo",
+      "meaning": "Şampuan"
+    },
+    {
+      "index": 653.0,
+      "word": "Badegel",
+      "meaning": "Banyo jeli"
+    },
+    {
+      "index": 654.0,
+      "word": "Makeup Tasche",
+      "meaning": "Makyaj çantası"
+    }
+  ],
+  "Coiffeur": [
+    {
+      "index": 655.0,
+      "word": "Welches Modell möchten Sie schneiden?",
+      "meaning": "Hangi model kesim istersiniz?"
+    },
+    {
+      "index": 656.0,
+      "word": "Sollen wir deine Haare kurz schneiden?",
+      "meaning": "Saçınızı kısa mı keselim?"
+    },
+    {
+      "index": 657.0,
+      "word": "Sollen wir Ihre Haarfarbe ändern?",
+      "meaning": "Saç renginizi değiştirelim mi?"
+    },
+    {
+      "index": 658.0,
+      "word": "Welche Farbe sollen wir deine Haare färben?",
+      "meaning": "Hangi renge boyayalım?"
+    },
+    {
+      "index": 659.0,
+      "word": "Kastanienfarbe passt besser zu Ihnen",
+      "meaning": "Size kestane rengi daha yakışır"
+    },
+    {
+      "index": 660.0,
+      "word": "Möchten Sie, dass Ihre Haare die gleiche Farbe färben ?",
+      "meaning": "Saçınızı aynı renge mi boyatmak istersiniz?"
+    },
+    {
+      "index": 661.0,
+      "word": "Sollten wir nur weiße Teile abdecken?",
+      "meaning": "Sadece beyazları mı kapatalım?"
+    },
+    {
+      "index": 662.0,
+      "word": "Möchten Sie Ihre Haare gewaschen haben?",
+      "meaning": "Saçınızı yıkatmak ister misiniz?"
+    },
+    {
+      "index": 663.0,
+      "word": "Willst du eine Maniküre?",
+      "meaning": "Manikür ister misiniz?"
+    },
+    {
+      "index": 664.0,
+      "word": "Möchten Sie pediküren?",
+      "meaning": "Pedikür ister misiniz?"
+    },
+    {
+      "index": 665.0,
+      "word": "Was möchten Sie trinken?",
+      "meaning": "İçmek için ne alırdınız?"
+    },
+    {
+      "index": 666.0,
+      "word": "Möchten Sie eine Zeitschrift lesen?",
+      "meaning": "Dergi okumak ister misiniz?"
+    },
+    {
+      "index": 667.0,
+      "word": "Möchten Sie eine Zeitung lesen?",
+      "meaning": "Gazete okumak ister misiniz?"
+    },
+    {
+      "index": 668.0,
+      "word": "Willst du dein Haarknoten?",
+      "meaning": "Saçınızı topuz mu istersiniz?"
+    },
+    {
+      "index": 669.0,
+      "word": "Willst du Fohn für deinen Haaren?",
+      "meaning": "Saçınıza fön mü istersiniz?"
+    },
+    {
+      "index": 670.0,
+      "word": "Sollen wir Ihre Haare sprühen?",
+      "meaning": "Saçınıza sprey sıkalım mı?"
+    },
+    {
+      "index": 671.0,
+      "word": "Möchten Sie Hautpflege?",
+      "meaning": "Cilt bakımı ister misiniz?"
+    },
+    {
+      "index": 672.0,
+      "word": "Massage",
+      "meaning": "Masaj"
+    },
+    {
+      "index": 673.0,
+      "word": "Augenbraue",
+      "meaning": "Kaş"
+    },
+    {
+      "index": 674.0,
+      "word": "Schatten",
+      "meaning": "Röfle"
+    },
+    {
+      "index": 675.0,
+      "word": "Franse",
+      "meaning": "Kahkül"
+    },
+    {
+      "index": 676.0,
+      "word": "Haarknoten",
+      "meaning": "Topuz"
+    },
+    {
+      "index": 677.0,
+      "word": "Epilierendes Wachs",
+      "meaning": "Ağda"
+    },
+    {
+      "index": 678.0,
+      "word": "Blond",
+      "meaning": "Sarışın"
+    },
+    {
+      "index": 679.0,
+      "word": "Tawny",
+      "meaning": "Esmer"
+    },
+    {
+      "index": 680.0,
+      "word": "Auburn",
+      "meaning": "Kumral"
+    },
+    {
+      "index": 681.0,
+      "word": "Rötlich",
+      "meaning": "Kızıl"
+    },
+    {
+      "index": 682.0,
+      "word": "Kurzes Haar",
+      "meaning": "Kısa saç"
+    },
+    {
+      "index": 683.0,
+      "word": "Lange Haare",
+      "meaning": "Uzun saç"
+    },
+    {
+      "index": 684.0,
+      "word": "Haarschnitt",
+      "meaning": "Saç tıraşı"
+    },
+    {
+      "index": 685.0,
+      "word": "Bart rasieren",
+      "meaning": "Sakal tıraşı"
+    },
+    {
+      "index": 686.0,
+      "word": "Fußpflege",
+      "meaning": "Ayak bakımı"
+    },
+    {
+      "index": 687.0,
+      "word": "Handpflege",
+      "meaning": "El bakımı"
+    }
+  ],
+  "Buchhandlung": [
+    {
+      "index": 688.0,
+      "word": "Zeitung",
+      "meaning": "Gazete"
+    },
+    {
+      "index": 689.0,
+      "word": "Monatsmagazin",
+      "meaning": "Aylık dergi"
+    },
+    {
+      "index": 690.0,
+      "word": "Hauszeitschriften",
+      "meaning": "Ev dergileri"
+    },
+    {
+      "index": 691.0,
+      "word": "Sportmagazine",
+      "meaning": "Spor dergileri"
+    },
+    {
+      "index": 692.0,
+      "word": "Frauenzeitschriften",
+      "meaning": "Kadın dergileri"
+    },
+    {
+      "index": 693.0,
+      "word": "Männerzeitschriften",
+      "meaning": "Erkek dergileri"
+    },
+    {
+      "index": 694.0,
+      "word": "Designmagazine",
+      "meaning": "Tasarım dergileri"
+    },
+    {
+      "index": 695.0,
+      "word": "Wöchentlich",
+      "meaning": "Haftalık"
+    },
+    {
+      "index": 696.0,
+      "word": "Roman",
+      "meaning": "Roman"
+    },
+    {
+      "index": 697.0,
+      "word": "Stadtführer",
+      "meaning": "Şehir rehberi"
+    },
+    {
+      "index": 698.0,
+      "word": "Stadtkarte",
+      "meaning": "Şehir haritası"
+    },
+    {
+      "index": 699.0,
+      "word": "Wörterbuch",
+      "meaning": "Sözlük"
+    },
+    {
+      "index": 700.0,
+      "word": "Kindergeschichtenbücher",
+      "meaning": "Çocuk hikaye kitapları"
+    },
+    {
+      "index": 701.0,
+      "word": "Malbücher für Kinder",
+      "meaning": "Çocuk boyama kitapları"
+    },
+    {
+      "index": 702.0,
+      "word": "Kartenpost",
+      "meaning": "Kartpostal"
+    },
+    {
+      "index": 703.0,
+      "word": "Notizbuch",
+      "meaning": "Defter"
+    },
+    {
+      "index": 704.0,
+      "word": "Kugelschreiber",
+      "meaning": "Tükenmez kalem"
+    },
+    {
+      "index": 705.0,
+      "word": "Musik-CD",
+      "meaning": "Müzik CD’si"
+    },
+    {
+      "index": 706.0,
+      "word": "DVD",
+      "meaning": "DVD"
+    },
+    {
+      "index": 707.0,
+      "word": "VCD",
+      "meaning": "VCD"
+    },
+    {
+      "index": 708.0,
+      "word": "Karikatur",
+      "meaning": "Çizgi film"
+    },
+    {
+      "index": 709.0,
+      "word": "Abenteuerfilm",
+      "meaning": "Macera filmi"
+    },
+    {
+      "index": 710.0,
+      "word": "Dokumentation",
+      "meaning": "Belgesel film"
+    }
+  ],
+  "Post": [
+    {
+      "index": 711.0,
+      "word": "In welchen Landkreis senden Sie Ihre Karte per Post?",
+      "meaning": "Kartpostalınızı hangi ülkeye göndereceksiniz?"
+    },
+    {
+      "index": 712.0,
+      "word": "Der Briefmarkentarif beträgt für Europa 15 türkische Lira.",
+      "meaning": "Pul ücreti Avrupa için 15,00 TL’dir."
+    },
+    {
+      "index": 713.0,
+      "word": "Möchten Sie mit dem Flugzeug senden?",
+      "meaning": "Uçakla mı göndermek istiyorsunuz?"
+    },
+    {
+      "index": 714.0,
+      "word": "Es kommt in ungefähr einer Woche an.",
+      "meaning": "Yaklaşık 1 haftada adrese ulaşır."
+    },
+    {
+      "index": 715.0,
+      "word": "Für ein 2 kg Paket müssen Sie 20,00 türkische Lira bezahlen.",
+      "meaning": "2 kiloluk paket için 20,00 TL ödemelisiniz."
+    },
+    {
+      "index": 716.0,
+      "word": "Möchten Sie eine Zahlungsanweisung senden?",
+      "meaning": "Havale mi göndermek istiyorsunuz?"
+    },
+    {
+      "index": 717.0,
+      "word": "Füllen Sie bitte dieses Formular aus.",
+      "meaning": "Lütfen bu formu doldurunuz."
+    },
+    {
+      "index": 718.0,
+      "word": "Die Gebühr für das Senden von Geld beträgt 3,00 türkische Lira.",
+      "meaning": "Gönderim ücreti 3,00 TL’dir."
+    },
+    {
+      "index": 719.0,
+      "word": "Kann ich den Fahrpreis bekommen?",
+      "meaning": "Ücreti alabilir miyim?"
+    },
+    {
+      "index": 720.0,
+      "word": "Ihre Zahlungsanweisung wurde gesendet.",
+      "meaning": "Havaleniz gönderildi."
+    },
+    {
+      "index": 721.0,
+      "word": "Ihre Zahlungsanweisung ist gekommen.",
+      "meaning": "Havaleniz geldi."
+    },
+    {
+      "index": 722.0,
+      "word": "Kann ich Ihren Personalausweis bekommen?",
+      "meaning": "Kimliğinizi alabilir miyim?"
+    },
+    {
+      "index": 723.0,
+      "word": "Hier ist dein Geld",
+      "meaning": "Buyrun paranız"
+    },
+    {
+      "index": 724.0,
+      "word": "Sie können Ihre Telefonrechnung bezahlen",
+      "meaning": "Telefon faturanızı ödeyebilirsiniz."
+    },
+    {
+      "index": 725.0,
+      "word": "Sie können Ihre Kreditschulden bezahlen",
+      "meaning": "Kredi kartı ödemenizi yapabilirsiniz."
+    },
+    {
+      "index": 726.0,
+      "word": "Kabelfernsehen",
+      "meaning": "Kablolu TV"
+    },
+    {
+      "index": 727.0,
+      "word": "ADSL",
+      "meaning": "ADSL"
+    },
+    {
+      "index": 728.0,
+      "word": "Handynummer",
+      "meaning": "Cep telefonu faturası"
+    },
+    {
+      "index": 729.0,
+      "word": "Wasserrechnung",
+      "meaning": "Su faturası"
+    },
+    {
+      "index": 730.0,
+      "word": "Stromrechnung",
+      "meaning": "Elektrik faturası"
+    },
+    {
+      "index": 731.0,
+      "word": "Kreditkarten-Kontoauszug",
+      "meaning": "Kredi kartı ekstresi"
+    },
+    {
+      "index": 732.0,
+      "word": "Brief",
+      "meaning": "Mektup"
+    }
+  ],
+  "In der Arztpraxis": [
+    {
+      "index": 733.0,
+      "word": "Hast du einen Termin?",
+      "meaning": "Randevunuz var mı?"
+    },
+    {
+      "index": 734.0,
+      "word": "Welcher Teil Ihres Körpers schmerzt?",
+      "meaning": "Nereniz ağrıyor?"
+    },
+    {
+      "index": 735.0,
+      "word": "Wie lange hat es geschmerzt?",
+      "meaning": "Ne zamandan beri ağrıyor?"
+    },
+    {
+      "index": 736.0,
+      "word": "Ich gebe ein Schmerzmittel",
+      "meaning": "Ağrı kesici veriyorum"
+    },
+    {
+      "index": 737.0,
+      "word": "Bist du allergisch?",
+      "meaning": "Alerjiniz var mı?"
+    },
+    {
+      "index": 738.0,
+      "word": "Bist du Diabetiker?",
+      "meaning": "Diyabetli misiniz?"
+    },
+    {
+      "index": 739.0,
+      "word": "Bist du schwanger?",
+      "meaning": "Hamile misiniz?"
+    },
+    {
+      "index": 740.0,
+      "word": "Öffne bitte deinen Mund",
+      "meaning": "Ağzınızı açınız"
+    },
+    {
+      "index": 741.0,
+      "word": "Welcher Zahn von dir schmerzt?",
+      "meaning": "Hangi dişiniz ağrıyor"
+    },
+    {
+      "index": 742.0,
+      "word": "Ihr Zahn muss herausgezogen werden",
+      "meaning": "Dişinizin çekilmesi gerek"
+    },
+    {
+      "index": 743.0,
+      "word": "Rauchen Sie?",
+      "meaning": "Sigara kullanıyor musunuz?"
+    },
+    {
+      "index": 744.0,
+      "word": "Du musst aufhören zu rauchen",
+      "meaning": "Sigarayı bırakmalısınız"
+    },
+    {
+      "index": 745.0,
+      "word": "Husten bitte",
+      "meaning": "Öksürünüz"
+    },
+    {
+      "index": 746.0,
+      "word": "Lüge",
+      "meaning": "Uzanınız"
+    },
+    {
+      "index": 747.0,
+      "word": "Gibt es hier Schmerzen?",
+      "meaning": "Burada ağrı var mı?"
+    },
+    {
+      "index": 748.0,
+      "word": "Verwenden Sie dieses Arzneimittel bitte",
+      "meaning": "Bu ilaçları kullanınız"
+    },
+    {
+      "index": 749.0,
+      "word": "Wie fühlst du dich?",
+      "meaning": "Nasıl hissediyorsunuz?"
+    },
+    {
+      "index": 750.0,
+      "word": "Du musst dich entspannen",
+      "meaning": "Dinlenmeniz gerek"
+    },
+    {
+      "index": 751.0,
+      "word": "Entspannen Sie sich 1 oder 2 Tage",
+      "meaning": "1-2 gün dinlenin"
+    },
+    {
+      "index": 752.0,
+      "word": "Ich werde einen Bericht für 2 Tage schreiben",
+      "meaning": "Size 2 günlük rapor yazacağım"
+    },
+    {
+      "index": 753.0,
+      "word": "Kopfschmerzen",
+      "meaning": "Baş ağrısı"
+    },
+    {
+      "index": 754.0,
+      "word": "Zahnschmerzen",
+      "meaning": "Diş ağrısı"
+    },
+    {
+      "index": 755.0,
+      "word": "Bauchschmerzen",
+      "meaning": "Karın ağrısı"
+    },
+    {
+      "index": 756.0,
+      "word": "Magenschmerzen",
+      "meaning": "Mide ağrısı"
+    },
+    {
+      "index": 757.0,
+      "word": "Muskelschmerzen",
+      "meaning": "Adale ağrısı"
+    },
+    {
+      "index": 758.0,
+      "word": "Eine Erkältung einfangen",
+      "meaning": "Soğuk algınlığı"
+    },
+    {
+      "index": 759.0,
+      "word": "Grippe",
+      "meaning": "Nezle"
+    },
+    {
+      "index": 760.0,
+      "word": "Kamin",
+      "meaning": "Grip"
+    },
+    {
+      "index": 761.0,
+      "word": "Verstauchter Knöchel",
+      "meaning": "Ayak bükülmesi"
+    },
+    {
+      "index": 762.0,
+      "word": "Gebrochener Fuß",
+      "meaning": "Ayak kırılması"
+    },
+    {
+      "index": 763.0,
+      "word": "Gebrochener Arm",
+      "meaning": "Kol kırılması"
+    },
+    {
+      "index": 764.0,
+      "word": "Verletzter Arm",
+      "meaning": "Kol incinmesi"
+    },
+    {
+      "index": 765.0,
+      "word": "Verletzter Muskel",
+      "meaning": "Kas zedelenmesi"
+    },
+    {
+      "index": 766.0,
+      "word": "Rezept",
+      "meaning": "Reçete"
+    },
+    {
+      "index": 767.0,
+      "word": "Verband",
+      "meaning": "Sargı"
+    },
+    {
+      "index": 768.0,
+      "word": "Eine Wunde verbinden",
+      "meaning": "Pansuman"
+    },
+    {
+      "index": 769.0,
+      "word": "Heilen",
+      "meaning": "Tedavi"
+    },
+    {
+      "index": 770.0,
+      "word": "Doktor",
+      "meaning": "Doktor"
+    },
+    {
+      "index": 771.0,
+      "word": "Krankenschwester",
+      "meaning": "Hemşire"
+    },
+    {
+      "index": 772.0,
+      "word": "Schwesternhelferin",
+      "meaning": "Hasta bakıcı"
+    },
+    {
+      "index": 773.0,
+      "word": "Krankenhaus",
+      "meaning": "Hastane"
+    },
+    {
+      "index": 774.0,
+      "word": "Untersuche das Büro",
+      "meaning": "Muayenehane"
+    },
+    {
+      "index": 775.0,
+      "word": "Notfall",
+      "meaning": "Acil durum"
+    },
+    {
+      "index": 776.0,
+      "word": "Verkehrsunfall",
+      "meaning": "Trafik kazası"
+    },
+    {
+      "index": 777.0,
+      "word": "Heimunfall",
+      "meaning": "Ev kazası"
+    },
+    {
+      "index": 778.0,
+      "word": "Verletzung",
+      "meaning": "Yaralanma"
+    }
+  ],
+  "Polizei": [
+    {
+      "index": 779.0,
+      "word": "Hast du dich verirrt?",
+      "meaning": "Yolunuzu mu kaybettiniz?"
+    },
+    {
+      "index": 780.0,
+      "word": "Hast du dein Kind verloren?",
+      "meaning": "Çocuğunuz mu kayboldu?"
+    },
+    {
+      "index": 781.0,
+      "word": "Sprichst du unsere sprache",
+      "meaning": "Dilimizi konuşabiliyor musunuz?"
+    },
+    {
+      "index": 782.0,
+      "word": "Kannst du mich verstehen?",
+      "meaning": "Beni anlayabiliyor musunuz?"
+    },
+    {
+      "index": 783.0,
+      "word": "Haben Sie ein Foto Ihres Kindes?",
+      "meaning": "Çocuğunuzun fotoğrafı var mı?"
+    },
+    {
+      "index": 784.0,
+      "word": "Wie alt ist Ihr Kind?",
+      "meaning": "Çocuğunuz kaç yaşında?"
+    },
+    {
+      "index": 785.0,
+      "word": "Wie war er gekleidet?",
+      "meaning": "Üzerinde hangi giysiler vardı?"
+    },
+    {
+      "index": 786.0,
+      "word": "Wo warst du zuletzt zusammen?",
+      "meaning": "En son nerede birlikteydiniz?"
+    },
+    {
+      "index": 787.0,
+      "word": "Keine Sorge, wir haben alle Mitarbeiter informiert",
+      "meaning": "Merak etmeyin, tüm ekibe haber verdik"
+    },
+    {
+      "index": 788.0,
+      "word": "Wir werden Ihr Kind im Kurze Zeit finden",
+      "meaning": "Çocuğunuzu en kısa zamanda bulacağız"
+    },
+    {
+      "index": 789.0,
+      "word": "Hast du deine Tasche verloren?",
+      "meaning": "Çantanızı mı kaybettiniz?"
+    },
+    {
+      "index": 790.0,
+      "word": "Wo hast du es verloren?",
+      "meaning": "Onu nerede kaybettiniz?"
+    },
+    {
+      "index": 791.0,
+      "word": "Welche Dinge sind in deiner Tasche?",
+      "meaning": "Çantada neler vardı?"
+    },
+    {
+      "index": 792.0,
+      "word": "Wann hast du es verloren?",
+      "meaning": "Onu ne zaman kaybettiniz?"
+    },
+    {
+      "index": 793.0,
+      "word": "Welche Farbe hat deine Tasche?",
+      "meaning": "Çantanızın rengi nedir?"
+    },
+    {
+      "index": 794.0,
+      "word": "Hast du deine Reisetasche verloren?",
+      "meaning": "Valizinizi mi kaybettiniz?"
+    },
+    {
+      "index": 795.0,
+      "word": "Wie groß ist deine Reisetasche?",
+      "meaning": "Ne büyüklükte bir valizdi?"
+    },
+    {
+      "index": 796.0,
+      "word": "Was war in deiner Reisetasche?",
+      "meaning": "İçerisinde neler vardı?"
+    },
+    {
+      "index": 797.0,
+      "word": "Reisepass",
+      "meaning": "Pasaport"
+    },
+    {
+      "index": 798.0,
+      "word": "Geldbörse",
+      "meaning": "Cüzdan"
+    },
+    {
+      "index": 799.0,
+      "word": "Führerschein",
+      "meaning": "Ehliyet"
+    },
+    {
+      "index": 800.0,
+      "word": "Geld",
+      "meaning": "Para"
+    },
+    {
+      "index": 801.0,
+      "word": "Kreditkarte",
+      "meaning": "Kredi kartı"
+    },
+    {
+      "index": 802.0,
+      "word": "Dollar",
+      "meaning": "Dolar"
+    },
+    {
+      "index": 803.0,
+      "word": "Euro",
+      "meaning": "Euro"
+    },
+    {
+      "index": 804.0,
+      "word": "Pfund",
+      "meaning": "Pound"
+    },
+    {
+      "index": 805.0,
+      "word": "Türkische Lira",
+      "meaning": "TL"
+    },
+    {
+      "index": 806.0,
+      "word": "T-Shirt",
+      "meaning": "Tişört"
+    },
+    {
+      "index": 807.0,
+      "word": "Zur Seite fahren",
+      "meaning": "Kazak"
+    },
+    {
+      "index": 808.0,
+      "word": "Schuh",
+      "meaning": "Ayakkabı"
+    },
+    {
+      "index": 809.0,
+      "word": "Hose",
+      "meaning": "Pantolon"
+    },
+    {
+      "index": 810.0,
+      "word": "Handtuch",
+      "meaning": "Havlu"
+    },
+    {
+      "index": 811.0,
+      "word": "Strümpfe",
+      "meaning": "Çorap"
+    },
+    {
+      "index": 812.0,
+      "word": "Mantel",
+      "meaning": "Mont"
+    },
+    {
+      "index": 813.0,
+      "word": "Weste",
+      "meaning": "Hırka"
+    },
+    {
+      "index": 814.0,
+      "word": "Schal",
+      "meaning": "Atkı"
+    },
+    {
+      "index": 815.0,
+      "word": "Baskenmütze",
+      "meaning": "Bere"
+    },
+    {
+      "index": 816.0,
+      "word": "High Boot",
+      "meaning": "Çizme"
+    },
+    {
+      "index": 817.0,
+      "word": "Booten",
+      "meaning": "Bot"
+    },
+    {
+      "index": 818.0,
+      "word": "Unterwäsche",
+      "meaning": "İç çamaşır"
+    },
+    {
+      "index": 819.0,
+      "word": "Pyjama",
+      "meaning": "Pijama"
+    },
+    {
+      "index": 820.0,
+      "word": "Handschuh",
+      "meaning": "Eldiven"
+    }
+  ],
+  "Sport": [
+    {
+      "index": 821.0,
+      "word": "Sie können ein Skiteam mieten.",
+      "meaning": "Kayakları kiralayabilirsiniz."
+    },
+    {
+      "index": 822.0,
+      "word": "Du kannst Skikurs bekommen.",
+      "meaning": "Kayak dersi alabilirsiniz."
+    },
+    {
+      "index": 823.0,
+      "word": "Eine Stunde ist 40,00 türkische Lira.",
+      "meaning": "Saati 40,00 TL.’dır."
+    },
+    {
+      "index": 824.0,
+      "word": "Haben Sie schon einmal Ski gefahren?",
+      "meaning": "Daha önce kaydınız mı?"
+    },
+    {
+      "index": 825.0,
+      "word": "Wie oft hast du die Lektion bekommen?",
+      "meaning": "Kaç kere ders aldınız?"
+    },
+    {
+      "index": 826.0,
+      "word": "Sie können eine Tennisstunde bekommen.",
+      "meaning": "Tenis dersi alabilirsiniz."
+    },
+    {
+      "index": 827.0,
+      "word": "Hast du schon mal Tennis gespielt?",
+      "meaning": "Daha önce tenis oynadınız mı?"
+    },
+    {
+      "index": 828.0,
+      "word": "Seien Sie um 19:00 Uhr vor Gericht.",
+      "meaning": "Saat 19:00’da kortta olunuz."
+    },
+    {
+      "index": 829.0,
+      "word": "Sie können Schläger mieten.",
+      "meaning": "Raket kiralayabilirsiniz."
+    },
+    {
+      "index": 830.0,
+      "word": "Sie können an Gruppenstunden teilnehmen.",
+      "meaning": "Grup dersine katılabilirsiniz."
+    },
+    {
+      "index": 831.0,
+      "word": "Gruppenunterricht ist billiger.",
+      "meaning": "Grup dersi daha ucuzdur."
+    },
+    {
+      "index": 832.0,
+      "word": "Damen entkleiden sich.",
+      "meaning": "Bayan soyunma odası"
+    },
+    {
+      "index": 833.0,
+      "word": "Männer ziehen sich aus",
+      "meaning": "Erkek soyunma odası"
+    },
+    {
+      "index": 834.0,
+      "word": "Toilette",
+      "meaning": "Tuvalet"
+    },
+    {
+      "index": 835.0,
+      "word": "Sauna",
+      "meaning": "Sauna"
+    },
+    {
+      "index": 836.0,
+      "word": "Stream Raum",
+      "meaning": "Buhar odası"
+    },
+    {
+      "index": 837.0,
+      "word": "Türkisches Bad",
+      "meaning": "Türk hamamı"
+    },
+    {
+      "index": 838.0,
+      "word": "Squash-Platz",
+      "meaning": "Squash kortu"
+    },
+    {
+      "index": 839.0,
+      "word": "Tennisplatz",
+      "meaning": "Tenis kortu"
+    },
+    {
+      "index": 840.0,
+      "word": "Fitnesshalle",
+      "meaning": "Fitnes salonu"
+    },
+    {
+      "index": 841.0,
+      "word": "Basketball",
+      "meaning": "Basketbol"
+    },
+    {
+      "index": 842.0,
+      "word": "Fußball",
+      "meaning": "Futbol"
+    },
+    {
+      "index": 843.0,
+      "word": "Volleyball",
+      "meaning": "Voleybol"
+    },
+    {
+      "index": 844.0,
+      "word": "Tennis",
+      "meaning": "Tenis"
+    },
+    {
+      "index": 845.0,
+      "word": "Laufband",
+      "meaning": "Koşu bandı"
+    },
+    {
+      "index": 846.0,
+      "word": "Reihe",
+      "meaning": "Kürek"
+    },
+    {
+      "index": 847.0,
+      "word": "Fahrrad",
+      "meaning": "Bisiklet"
+    },
+    {
+      "index": 848.0,
+      "word": "Herz-Kreislauf-Test",
+      "meaning": "Kardiyo yapmak"
+    },
+    {
+      "index": 849.0,
+      "word": "Pilates",
+      "meaning": "Pilates"
+    },
+    {
+      "index": 850.0,
+      "word": "Gruppenunterricht",
+      "meaning": "Grup dersi"
+    },
+    {
+      "index": 851.0,
+      "word": "Sportschuhe",
+      "meaning": "Spor ayakkabı"
+    },
+    {
+      "index": 852.0,
+      "word": "Ball",
+      "meaning": "Top"
+    },
+    {
+      "index": 853.0,
+      "word": "Sportschuhe",
+      "meaning": "Eşofman"
+    },
+    {
+      "index": 854.0,
+      "word": "Kurze Hose",
+      "meaning": "Şort"
+    }
+  ],
+  "Zubehör": [
+    {
+      "index": 855.0,
+      "word": "Halskette",
+      "meaning": "Kolye"
+    },
+    {
+      "index": 856.0,
+      "word": "Ohrring",
+      "meaning": "Küpe"
+    },
+    {
+      "index": 857.0,
+      "word": "Ring",
+      "meaning": "Yüzük"
+    },
+    {
+      "index": 858.0,
+      "word": "Armband",
+      "meaning": "Bilezik"
+    },
+    {
+      "index": 859.0,
+      "word": "Spiegel",
+      "meaning": "Ayna"
+    },
+    {
+      "index": 860.0,
+      "word": "Haarband",
+      "meaning": "Saç bandı"
+    },
+    {
+      "index": 861.0,
+      "word": "Kamm",
+      "meaning": "Tarak"
+    }
+  ],
+  "Wichtige Verben Önemli Fiiller": [
+    {
+      "index": 862.0,
+      "word": "Vorstellen",
+      "meaning": "Tanışmak"
+    },
+    {
+      "index": 863.0,
+      "word": "Sprechen",
+      "meaning": "Konuşmak"
+    },
+    {
+      "index": 864.0,
+      "word": "Sehen",
+      "meaning": "Bakmak"
+    },
+    {
+      "index": 865.0,
+      "word": "Sehen",
+      "meaning": "Görmek"
+    },
+    {
+      "index": 866.0,
+      "word": "Hören",
+      "meaning": "Duymak"
+    },
+    {
+      "index": 867.0,
+      "word": "Wollen",
+      "meaning": "İstemek"
+    },
+    {
+      "index": 868.0,
+      "word": "Fragen",
+      "meaning": "Sormak"
+    },
+    {
+      "index": 869.0,
+      "word": "Notwendig",
+      "meaning": "Gerekli olmak"
+    },
+    {
+      "index": 870.0,
+      "word": "Herumlaufen",
+      "meaning": "Gezmek"
+    },
+    {
+      "index": 871.0,
+      "word": "Wandern",
+      "meaning": "Dolaşmak"
+    },
+    {
+      "index": 872.0,
+      "word": "Einkaufen gehen",
+      "meaning": "Alış-veriş yapmak"
+    },
+    {
+      "index": 873.0,
+      "word": "Zu genießen",
+      "meaning": "Beğenmek"
+    },
+    {
+      "index": 874.0,
+      "word": "Mögen",
+      "meaning": "Hoşlanmak"
+    },
+    {
+      "index": 875.0,
+      "word": "Zu suchen",
+      "meaning": "Aramak"
+    },
+    {
+      "index": 876.0,
+      "word": "Finden",
+      "meaning": "Bulmak"
+    },
+    {
+      "index": 877.0,
+      "word": "Gehen",
+      "meaning": "Yürümek"
+    },
+    {
+      "index": 878.0,
+      "word": "Laufen",
+      "meaning": "Koşmak"
+    },
+    {
+      "index": 879.0,
+      "word": "Schreiben",
+      "meaning": "Yazmak"
+    },
+    {
+      "index": 880.0,
+      "word": "Lesen",
+      "meaning": "Okumak"
+    },
+    {
+      "index": 881.0,
+      "word": "Sich verlieben",
+      "meaning": "Aşık olmak"
+    },
+    {
+      "index": 882.0,
+      "word": "Lieben",
+      "meaning": "Sevmek"
+    },
+    {
+      "index": 883.0,
+      "word": "Zuhören",
+      "meaning": "Dinlemek"
+    },
+    {
+      "index": 884.0,
+      "word": "Fernsehen schauen",
+      "meaning": "Televizyon seyretmek"
+    },
+    {
+      "index": 885.0,
+      "word": "Musik hören",
+      "meaning": "Müzik dinlemek"
+    },
+    {
+      "index": 886.0,
+      "word": "E-Mail senden",
+      "meaning": "E-mail yollamak"
+    },
+    {
+      "index": 887.0,
+      "word": "Um eine E-Mail zu erhalten",
+      "meaning": "E-mail almak"
+    },
+    {
+      "index": 888.0,
+      "word": "Im Internet online sein",
+      "meaning": "İnternete girmek"
+    },
+    {
+      "index": 889.0,
+      "word": "Kartenpost senden",
+      "meaning": "Kartpostal yollamak"
+    },
+    {
+      "index": 890.0,
+      "word": "Trinken",
+      "meaning": "İçmek"
+    },
+    {
+      "index": 891.0,
+      "word": "Essen",
+      "meaning": "Yemek"
+    },
+    {
+      "index": 892.0,
+      "word": "Spaß haben",
+      "meaning": "Eğlenmek"
+    },
+    {
+      "index": 893.0,
+      "word": "Vorsichtig sein",
+      "meaning": "Dikkat etmek"
+    },
+    {
+      "index": 894.0,
+      "word": "Schmecken",
+      "meaning": "Tatmak"
+    },
+    {
+      "index": 895.0,
+      "word": "Folgen",
+      "meaning": "Takip etmek"
+    },
+    {
+      "index": 896.0,
+      "word": "Versuchen",
+      "meaning": "Denemek"
+    }
+  ],
+  "Im Supermarkt Süpermarkette": [
+    {
+      "index": 897.0,
+      "word": "Ein Päckchen Kubikzucker",
+      "meaning": "1 kutu kesme şeker"
+    },
+    {
+      "index": 898.0,
+      "word": "Eine Packung Teeblätter",
+      "meaning": "1 paket poşet çay"
+    },
+    {
+      "index": 899.0,
+      "word": "Reis",
+      "meaning": "Pirinç"
+    },
+    {
+      "index": 900.0,
+      "word": "Ein Kilo Gurke",
+      "meaning": "1 kilo salatalık"
+    },
+    {
+      "index": 901.0,
+      "word": "Ein Kilo Tomaten",
+      "meaning": "1 kilo domates"
+    },
+    {
+      "index": 902.0,
+      "word": "Kartoffeln",
+      "meaning": "Patates"
+    },
+    {
+      "index": 903.0,
+      "word": "Aubergine",
+      "meaning": "Patlıcan"
+    },
+    {
+      "index": 904.0,
+      "word": "Pfeffer",
+      "meaning": "Biber"
+    },
+    {
+      "index": 905.0,
+      "word": "Kürbis",
+      "meaning": "Kabak"
+    },
+    {
+      "index": 906.0,
+      "word": "Waschmittel",
+      "meaning": "Deterjan"
+    },
+    {
+      "index": 907.0,
+      "word": "Kaugummi",
+      "meaning": "Çiklet"
+    },
+    {
+      "index": 908.0,
+      "word": "Schokolade",
+      "meaning": "Çikolata"
+    },
+    {
+      "index": 909.0,
+      "word": "200 gr Käse",
+      "meaning": "200 gram peynir"
+    },
+    {
+      "index": 910.0,
+      "word": "200 gr Olive",
+      "meaning": "200 gram zeytin"
+    },
+    {
+      "index": 911.0,
+      "word": "Ein Glas Marmelade",
+      "meaning": "1 kavanoz reçel"
+    },
+    {
+      "index": 912.0,
+      "word": "Butter",
+      "meaning": "Tereyağı"
+    },
+    {
+      "index": 913.0,
+      "word": "Eine Packung Makkaroni",
+      "meaning": "1 paket makarna"
+    },
+    {
+      "index": 914.0,
+      "word": "Toilettenpapier",
+      "meaning": "Tuvalet kağıdı"
+    },
+    {
+      "index": 915.0,
+      "word": "Honig",
+      "meaning": "Bal"
+    },
+    {
+      "index": 916.0,
+      "word": "Feige",
+      "meaning": "İncir"
+    },
+    {
+      "index": 917.0,
+      "word": "Kirsche",
+      "meaning": "Kiraz"
+    },
+    {
+      "index": 918.0,
+      "word": "Erdbeere",
+      "meaning": "Çilek"
+    },
+    {
+      "index": 919.0,
+      "word": "Banane",
+      "meaning": "Muz"
+    },
+    {
+      "index": 920.0,
+      "word": "Salami",
+      "meaning": "Salam"
+    },
+    {
+      "index": 921.0,
+      "word": "Würstchen",
+      "meaning": "Sosis"
+    },
+    {
+      "index": 922.0,
+      "word": "Senf",
+      "meaning": "Hardal"
+    },
+    {
+      "index": 923.0,
+      "word": "Pilz",
+      "meaning": "Mantar"
+    },
+    {
+      "index": 924.0,
+      "word": "Truthahn",
+      "meaning": "Hindi"
+    },
+    {
+      "index": 925.0,
+      "word": "Aprikose",
+      "meaning": "Kayısı"
+    },
+    {
+      "index": 926.0,
+      "word": "Fleisch",
+      "meaning": "Et"
+    },
+    {
+      "index": 927.0,
+      "word": "Lammfleisch",
+      "meaning": "Kuzu eti"
+    },
+    {
+      "index": 928.0,
+      "word": "Rindfleisch",
+      "meaning": "İnek eti"
+    },
+    {
+      "index": 929.0,
+      "word": "Kalbfleisch",
+      "meaning": "Dana eti"
+    },
+    {
+      "index": 930.0,
+      "word": "Blaufisch",
+      "meaning": "Lüfer"
+    },
+    {
+      "index": 931.0,
+      "word": "Sohle, einzig, alleinig",
+      "meaning": "Dil balığı"
+    },
+    {
+      "index": 932.0,
+      "word": "Hähnchen",
+      "meaning": "Tavuk"
+    },
+    {
+      "index": 933.0,
+      "word": "Nuss",
+      "meaning": "Fındık"
+    },
+    {
+      "index": 934.0,
+      "word": "Pistazienkern",
+      "meaning": "Fıstık"
+    },
+    {
+      "index": 935.0,
+      "word": "Knoblauch",
+      "meaning": "Sarımsak"
+    },
+    {
+      "index": 936.0,
+      "word": "Zwiebel",
+      "meaning": "Soğan"
+    },
+    {
+      "index": 937.0,
+      "word": "Spinat",
+      "meaning": "Ispanak"
+    },
+    {
+      "index": 938.0,
+      "word": "Karotte",
+      "meaning": "Havuç"
+    },
+    {
+      "index": 939.0,
+      "word": "Creme Caramel",
+      "meaning": "Krem karamel"
+    },
+    {
+      "index": 940.0,
+      "word": "Schokoladenkuchen",
+      "meaning": "Çikolatalı pasta"
+    },
+    {
+      "index": 941.0,
+      "word": "Blume",
+      "meaning": "Çiçek"
+    },
+    {
+      "index": 942.0,
+      "word": "Gemüse",
+      "meaning": "Sebzeler"
+    },
+    {
+      "index": 943.0,
+      "word": "Früchte",
+      "meaning": "Meyvalar"
+    },
+    {
+      "index": 944.0,
+      "word": "Gefrorenes Essen",
+      "meaning": "Dondurulmuş gıdalar"
+    },
+    {
+      "index": 945.0,
+      "word": "Sahne",
+      "meaning": "Krema"
+    },
+    {
+      "index": 946.0,
+      "word": "Einkaufstasche",
+      "meaning": "Alış-veriş sepeti"
+    },
+    {
+      "index": 947.0,
+      "word": "Zahlungswarteschlange",
+      "meaning": "Kasa kuyruğu"
+    },
+    {
+      "index": 948.0,
+      "word": "Barzahlung",
+      "meaning": "Nakit ödeme"
+    },
+    {
+      "index": 949.0,
+      "word": "Zahlung mit Kreditkarte",
+      "meaning": "Kredi kartı ile ödeme"
+    },
+    {
+      "index": 950.0,
+      "word": "Schnelle Bezahlung",
+      "meaning": "Hızlı kasa"
+    },
+    {
+      "index": 951.0,
+      "word": "Pochette",
+      "meaning": "Poşet"
+    },
+    {
+      "index": 952.0,
+      "word": "Dieser Zahlungssafe ist geschlossen, verwenden Sie bitte den anderen.",
+      "meaning": "Bu kasa kapalı lütfen diğer kasayı kullanınız."
+    },
+    {
+      "index": 953.0,
+      "word": "Unser Geschäft schließt um 10:00 Uhr.",
+      "meaning": "Mağazamız saat 10:00’da kapanacaktır."
+    },
+    {
+      "index": 954.0,
+      "word": "Bitte gehen Sie in Richtung Zahlungsautomaten.",
+      "meaning": "Lütfen kasalara doğru ilerleyiniz."
+    },
+    {
+      "index": 955.0,
+      "word": "Vielen dank für ihr Interesse.",
+      "meaning": "İlginize teşekkür ederiz."
+    },
+    {
+      "index": 956.0,
+      "word": "Wir hoffen Sie wieder zu sehen.",
+      "meaning": "Sizi tekrar bekleriz."
+    },
+    {
+      "index": 957.0,
+      "word": "Vielen Dank, dass Sie uns bevorzugt haben.",
+      "meaning": "Bizi tercih ettiğiniz için teşekkür ederiz."
+    }
+  ],
+  "Verkehrszeichen": [
+    {
+      "index": 958.0,
+      "word": "Achten Sie auf das Auto / Seien Sie vorsichtig mit dem Auto",
+      "meaning": "Arabaya dikkat"
+    },
+    {
+      "index": 959.0,
+      "word": "Kein Eingang",
+      "meaning": "Girilmez yol"
+    },
+    {
+      "index": 960.0,
+      "word": "Kein Linksabbiegen",
+      "meaning": "Sola dönülmez"
+    },
+    {
+      "index": 961.0,
+      "word": "Keine Rechtskurve",
+      "meaning": "Sağa dönülmez"
+    },
+    {
+      "index": 962.0,
+      "word": "Kein Halten",
+      "meaning": "Durulmaz"
+    },
+    {
+      "index": 963.0,
+      "word": "Geschwindigkeitsbegrenzung von 100 km / h",
+      "meaning": "Hız sınırı 100 KM"
+    },
+    {
+      "index": 964.0,
+      "word": "Bushaltestelle",
+      "meaning": "Otobüs durağı"
+    },
+    {
+      "index": 965.0,
+      "word": "Busfahrplan",
+      "meaning": "Otobüs tarifesi"
+    },
+    {
+      "index": 966.0,
+      "word": "Taxistand",
+      "meaning": "Taksi durağı"
+    },
+    {
+      "index": 967.0,
+      "word": "Ampeln",
+      "meaning": "Trafik ışıkları"
+    },
+    {
+      "index": 968.0,
+      "word": "Halt",
+      "meaning": "Dur"
+    },
+    {
+      "index": 969.0,
+      "word": "Langsamer",
+      "meaning": "Yavaşla"
+    },
+    {
+      "index": 970.0,
+      "word": "Kein Eingang",
+      "meaning": "Girilmez"
+    },
+    {
+      "index": 971.0,
+      "word": "Verkehrspolizei",
+      "meaning": "Trafik polisi"
+    },
+    {
+      "index": 972.0,
+      "word": "Parken verboten",
+      "meaning": "Park yapılmaz"
+    },
+    {
+      "index": 973.0,
+      "word": "Kurzzeitparken",
+      "meaning": "Kısa süreli otopark"
+    },
+    {
+      "index": 974.0,
+      "word": "Arbeiten auf der Straße",
+      "meaning": "Yolda çalışma var"
+    },
+    {
+      "index": 975.0,
+      "word": "Die Straße ist gesperrt",
+      "meaning": "Yol kapalı"
+    },
+    {
+      "index": 976.0,
+      "word": "Das Ende des Schultages",
+      "meaning": "Okul çıkışı"
+    },
+    {
+      "index": 977.0,
+      "word": "Rutschige Straße im Regen",
+      "meaning": "Yağmurda kaygan yol"
+    },
+    {
+      "index": 978.0,
+      "word": "Ringstraße / Autobahn",
+      "meaning": "Çevreyolu çıkışı"
+    },
+    {
+      "index": 979.0,
+      "word": "Brücke",
+      "meaning": "Köprü"
+    },
+    {
+      "index": 980.0,
+      "word": "Bach",
+      "meaning": "Dere"
+    },
+    {
+      "index": 981.0,
+      "word": "Fluss",
+      "meaning": "Nehir"
+    },
+    {
+      "index": 982.0,
+      "word": "Tunnel",
+      "meaning": "Tünel"
+    },
+    {
+      "index": 983.0,
+      "word": "Überführung",
+      "meaning": "Üst geçit"
+    },
+    {
+      "index": 984.0,
+      "word": "Unterführung",
+      "meaning": "Alt geçit"
+    }
+  ],
+  "Almanca Tur Kelimeleri": [
+    {
+      "index": 985.0,
+      "word": "Die Pauschalreise dauert 5 Tage.",
+      "meaning": "Paket tur 5 günlüktür."
+    },
+    {
+      "index": 986.0,
+      "word": "Die Tour ist 850,00 türkische Lira.",
+      "meaning": "Turun fiyatı ’dir 850,00 TL."
+    },
+    {
+      "index": 987.0,
+      "word": "Der Bus fährt um 7:30 Uhr ab.",
+      "meaning": "Otobüs sabah 7:30’da hareket edecektir."
+    },
+    {
+      "index": 988.0,
+      "word": "Wir werden um 13:00 Uhr im Hotel ankommen.",
+      "meaning": "Otele saat 13:00’de varmış olacağız."
+    },
+    {
+      "index": 989.0,
+      "word": "Ich bin dein Führer Ali.",
+      "meaning": "Ben rehberiniz Ali."
+    },
+    {
+      "index": 990.0,
+      "word": "Das Tourprogramm wird Ihnen gegeben.",
+      "meaning": "Tur programı size verilecektir."
+    },
+    {
+      "index": 991.0,
+      "word": "Wir werden eine ganztägige Tour haben.",
+      "meaning": "Tam gün şehir turu yapacağız"
+    },
+    {
+      "index": 992.0,
+      "word": "Wir werden uns nach 3 Stunden in diesem Bereich treffen.",
+      "meaning": "3 saat sonra bu alanda bulaşacağız."
+    },
+    {
+      "index": 993.0,
+      "word": "Wir treffen uns um 12:30 Uhr zum Museumsbesuch.",
+      "meaning": "Müze gezisi için 12:30’da bulaşacağız."
+    },
+    {
+      "index": 994.0,
+      "word": "Der Eintrittspreis für das Museum ist im Tourpreis enthalten.",
+      "meaning": "Müze giriş ücreti tur fiyatına dahildir."
+    },
+    {
+      "index": 995.0,
+      "word": "Bitte komm nicht zu spät.",
+      "meaning": "Lütfen geç kalmayınız."
+    },
+    {
+      "index": 996.0,
+      "word": "Tagesprogramm",
+      "meaning": "Günlük program"
+    },
+    {
+      "index": 997.0,
+      "word": "Bootstour",
+      "meaning": "Bot gezisi"
+    },
+    {
+      "index": 998.0,
+      "word": "Disko",
+      "meaning": "Diskotek"
+    },
+    {
+      "index": 999.0,
+      "word": "Nachtclub",
+      "meaning": "Gece kulübü"
+    },
+    {
+      "index": 1000.0,
+      "word": "Cafeteria",
+      "meaning": "Kafe"
+    }
+  ]
+}
